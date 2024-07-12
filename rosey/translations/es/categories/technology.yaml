@@ -11,8 +11,167 @@ _inputs:
         - heading: Still to translate (es)
           comment: Text to translate on
             [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
-          inputs: []
+          inputs:
+            - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
+            - about
+            - all-articles
+            - best-email-sending-services
+            - blog
+            - community
+            - company
+            - contact
+            - feature
+            - home
+            - main-pages
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
+            - technology
         - heading: Already translated (es)
           comment: Text already translated on
             [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
           inputs: []
+  /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
+    label: ""
+    hidden: true
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=)"
+  about:
+    label: About
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=A\
+      bout)"
+  all-articles:
+    label: All Articles
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=A\
+      ll%20Articles)"
+  best-email-sending-services:
+    label: Best email sending services
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=B\
+      est%20email%20sending%20services)"
+  blog:
+    label: Blog
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=B\
+      log)"
+  community:
+    label: Community
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=C\
+      ommunity)"
+  company:
+    label: Company
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=C\
+      ompany)"
+  contact:
+    label: Contact
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=C\
+      ontact)"
+  feature:
+    label: Feature
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=F\
+      eature)"
+  home:
+    label: Home
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=H\
+      ome)"
+  main-pages:
+    label: Main Pages
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=M\
+      ain%20Pages)"
+  marketing:
+    label: Marketing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=M\
+      arketing)"
+  price:
+    label: Price
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=P\
+      rice)"
+  pricing:
+    label: Pricing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=P\
+      ricing)"
+  privacy-and-policy:
+    label: Privacy and Policy
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=P\
+      rivacy%20and%20Policy)"
+  technology:
+    label: Technology
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=T\
+      echnology)"
+/TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU: ""
+about: ""
+all-articles: ""
+best-email-sending-services: ""
+blog: ""
+community: ""
+company: ""
+contact: ""
+feature: ""
+home: ""
+main-pages: ""
+marketing: ""
+price: ""
+pricing: ""
+privacy-and-policy: ""
+technology: ""

@@ -9,8 +9,163 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [categories/](https://polite-viper.cloudvent.net/categories/)
-          inputs: []
+          inputs:
+            - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
+            - about
+            - all-articles
+            - blog
+            - categories
+            - community
+            - company
+            - contact
+            - email
+            - feature
+            - home
+            - main-pages
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
+            - technology
         - heading: Already translated (jp)
           comment: Text already translated on
             [categories/](https://polite-viper.cloudvent.net/categories/)
           inputs: []
+  /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
+    label: ""
+    hidden: true
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/categories/#:~:text=)"
+  about:
+    label: About
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=About)"
+  all-articles:
+    label: All Articles
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=All%20Articl\
+      es)"
+  blog:
+    label: Blog
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Blog)"
+  categories:
+    label: Categories
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Categories)"
+  community:
+    label: Community
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Community)"
+  company:
+    label: Company
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Company)"
+  contact:
+    label: Contact
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Contact)"
+  email:
+    label: Email
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Email)"
+  feature:
+    label: Feature
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Feature)"
+  home:
+    label: Home
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Home)"
+  main-pages:
+    label: Main Pages
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Main%20Pages\
+      )"
+  marketing:
+    label: Marketing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Marketing)"
+  price:
+    label: Price
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Price)"
+  pricing:
+    label: Pricing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Pricing)"
+  privacy-and-policy:
+    label: Privacy and Policy
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Privacy%20an\
+      d%20Policy)"
+  technology:
+    label: Technology
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/#:~:text=Technology)"
+/TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU: ""
+about: ""
+all-articles: ""
+blog: ""
+categories: ""
+community: ""
+company: ""
+contact: ""
+email: ""
+feature: ""
+home: ""
+main-pages: ""
+marketing: ""
+price: ""
+pricing: ""
+privacy-and-policy: ""
+technology: ""

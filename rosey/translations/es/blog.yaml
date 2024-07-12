@@ -8,8 +8,225 @@ _inputs:
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on [blog/](https://polite-viper.cloudvent.net/blog/)
-          inputs: []
+          inputs:
+            - 5-things-to-improve-your-email-templates
+            - 7-things-you-didnt-know-about-email
+            - about
+            - all-articles
+            - best-email-sending-services
+            - blog
+            - community
+            - company
+            - contact
+            - email
+            - email-delivery-tips
+            - feature
+            - home
+            - how-to-host-better-email-marketing-campaigns
+            - main-pages
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
+            - resources-to-grow-your-email-campaigns
+            - technology
+            - we-believe-that-a-good-email-marketing-strategy-is-the-key-to-growth-so-were-helping-you-grow-your-business-with-tools-and-resources-that-make-email-marketing-easy
+            - what-are-the-best-email-clients
         - heading: Already translated (es)
           comment: Text already translated on
             [blog/](https://polite-viper.cloudvent.net/blog/)
           inputs: []
+  5-things-to-improve-your-email-templates:
+    label: 5 things to improve your email templates
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=5%20things%20to,yo\
+      ur%20email%20templates)"
+  7-things-you-didnt-know-about-email:
+    label: 7 things you didn't know about email
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=7%20things%20you,k\
+      now%20about%20email)"
+  about:
+    label: About
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=About)"
+  all-articles:
+    label: All Articles
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=All%20Articles)"
+  best-email-sending-services:
+    label: Best email sending services
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=Best%20email%20sen\
+      ding%20services)"
+  blog:
+    label: Blog
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Blog)"
+  community:
+    label: Community
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Community)"
+  company:
+    label: Company
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Company)"
+  contact:
+    label: Contact
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Contact)"
+  email:
+    label: Email
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Email)"
+  email-delivery-tips:
+    label: Email delivery tips
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=Email%20delivery%2\
+      0tips)"
+  feature:
+    label: Feature
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Feature)"
+  home:
+    label: Home
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Home)"
+  how-to-host-better-email-marketing-campaigns:
+    label: How to host better email marketing campaig...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=How%20to%20host,em\
+      ail%20marketing%20campaigns)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: How to host better email marketing campaigns?
+  main-pages:
+    label: Main Pages
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=Main%20Pages)"
+  marketing:
+    label: Marketing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Marketing)"
+  price:
+    label: Price
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Price)"
+  pricing:
+    label: Pricing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Pricing)"
+  privacy-and-policy:
+    label: Privacy and Policy
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=Privacy%20and%20Po\
+      licy)"
+  resources-to-grow-your-email-campaigns:
+    label: Resources to grow your email campaigns
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=Resources%20to%20g\
+      row%20your%20email%20campaigns)"
+  technology:
+    label: Technology
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=Technology)"
+  we-believe-that-a-good-email-marketing-strategy-is-the-key-to-growth-so-were-helping-you-grow-your-business-with-tools-and-resources-that-make-email-marketing-easy:
+    label: We believe that a good email marketing str...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=We%20believe%20tha\
+      t,email%20marketing%20easy)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: We believe that a good email marketing strategy is the key to growth.
+        So we’re helping you grow your business with tools and resources that
+        make email marketing easy.
+  what-are-the-best-email-clients:
+    label: What are the best email clients?
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/#:~:text=What%20are%20the%2\
+      0best%20email%20clients)"
+5-things-to-improve-your-email-templates: ""
+7-things-you-didnt-know-about-email: ""
+about: ""
+all-articles: ""
+best-email-sending-services: ""
+blog: ""
+community: ""
+company: ""
+contact: ""
+email: ""
+email-delivery-tips: ""
+feature: ""
+home: ""
+how-to-host-better-email-marketing-campaigns: ""
+main-pages: ""
+marketing: ""
+price: ""
+pricing: ""
+privacy-and-policy: ""
+resources-to-grow-your-email-campaigns: ""
+technology: ""
+we-believe-that-a-good-email-marketing-strategy-is-the-key-to-growth-so-were-helping-you-grow-your-business-with-tools-and-resources-that-make-email-marketing-easy: ""
+what-are-the-best-email-clients: ""

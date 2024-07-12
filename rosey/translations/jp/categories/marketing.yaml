@@ -11,8 +11,202 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [categories/marketing/](https://polite-viper.cloudvent.net/categories/marketing/)
-          inputs: []
+          inputs:
+            - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
+            - 5-things-to-improve-your-email-templates
+            - 7-things-you-didnt-know-about-email
+            - about
+            - all-articles
+            - blog
+            - community
+            - company
+            - contact
+            - feature
+            - home
+            - how-to-host-better-email-marketing-campaigns
+            - main-pages
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
+            - technology
+            - what-are-the-best-email-clients
         - heading: Already translated (jp)
           comment: Text already translated on
             [categories/marketing/](https://polite-viper.cloudvent.net/categories/marketing/)
           inputs: []
+  /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
+    label: ""
+    hidden: true
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=)"
+  5-things-to-improve-your-email-templates:
+    label: 5 things to improve your email templates
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=5%\
+      20things%20to,your%20email%20templates)"
+  7-things-you-didnt-know-about-email:
+    label: 7 things you didn't know about email
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=7%\
+      20things%20you,know%20about%20email)"
+  about:
+    label: About
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Ab\
+      out)"
+  all-articles:
+    label: All Articles
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Al\
+      l%20Articles)"
+  blog:
+    label: Blog
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Bl\
+      og)"
+  community:
+    label: Community
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Co\
+      mmunity)"
+  company:
+    label: Company
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Co\
+      mpany)"
+  contact:
+    label: Contact
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Co\
+      ntact)"
+  feature:
+    label: Feature
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Fe\
+      ature)"
+  home:
+    label: Home
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Ho\
+      me)"
+  how-to-host-better-email-marketing-campaigns:
+    label: How to host better email marketing campaig...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Ho\
+      w%20to%20host,email%20marketing%20campaigns)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: How to host better email marketing campaigns?
+  main-pages:
+    label: Main Pages
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Ma\
+      in%20Pages)"
+  marketing:
+    label: Marketing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Ma\
+      rketing)"
+  price:
+    label: Price
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Pr\
+      ice)"
+  pricing:
+    label: Pricing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Pr\
+      icing)"
+  privacy-and-policy:
+    label: Privacy and Policy
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Pr\
+      ivacy%20and%20Policy)"
+  technology:
+    label: Technology
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Te\
+      chnology)"
+  what-are-the-best-email-clients:
+    label: What are the best email clients?
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/marketing/#:~:text=Wh\
+      at%20are%20the%20best%20email%20clients)"
+/TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU: ""
+5-things-to-improve-your-email-templates: ""
+7-things-you-didnt-know-about-email: ""
+about: ""
+all-articles: ""
+blog: ""
+community: ""
+company: ""
+contact: ""
+feature: ""
+home: ""
+how-to-host-better-email-marketing-campaigns: ""
+main-pages: ""
+marketing: ""
+price: ""
+pricing: ""
+privacy-and-policy: ""
+technology: ""
+what-are-the-best-email-clients: ""
