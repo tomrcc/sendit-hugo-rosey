@@ -13,13 +13,13 @@ _inputs:
             [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
-            - best-email-sending-services
         - heading: Already translated (jp)
           comment: Text already translated on
             [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
           inputs:
             - about
             - all-articles
+            - best-email-sending-services
             - blog
             - community
             - company
@@ -162,7 +162,7 @@ _inputs:
 /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU: ""
 about: について
 all-articles: すべての記事
-best-email-sending-services: ""
+best-email-sending-services: 最高の電子メール送信サービス
 blog: ブログ
 community: コミュニティ
 company: 会社

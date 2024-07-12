@@ -12,7 +12,6 @@ _inputs:
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
             - categories
-            - email
         - heading: Already translated (jp)
           comment: Text already translated on
             [categories/](https://polite-viper.cloudvent.net/categories/)
@@ -23,6 +22,7 @@ _inputs:
             - community
             - company
             - contact
+            - email
             - feature
             - home
             - main-pages
@@ -160,7 +160,7 @@ categories: ""
 community: コミュニティ
 company: 会社
 contact: 接触
-email: ""
+email: Eメール
 feature: 特徴
 home: 家
 main-pages: メインページ

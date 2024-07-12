@@ -10,9 +10,7 @@ _inputs:
           comment: Text to translate on [404](https://polite-viper.cloudvent.net/404)
           inputs:
             - blog
-            - go-home
             - marketing
-            - this-page-is-missing
         - heading: Already translated (es)
           comment: Text already translated on
             [404](https://polite-viper.cloudvent.net/404)
@@ -23,12 +21,14 @@ _inputs:
             - company
             - contact
             - feature
+            - go-home
             - home
             - main-pages
             - price
             - pricing
             - privacy-and-policy
             - technology
+            - this-page-is-missing
   about:
     label: About
     hidden: false
@@ -138,7 +138,7 @@ community: Comunidad
 company: Compañía
 contact: Contacto
 feature: Característica
-go-home: ""
+go-home: Vete a casa
 home: Hogar
 main-pages: Páginas principales
 marketing: ""
@@ -146,4 +146,4 @@ price: Precio
 pricing: Precios
 privacy-and-policy: Privacidad y política
 technology: Tecnología
-this-page-is-missing: ""
+this-page-is-missing: Falta esta página.

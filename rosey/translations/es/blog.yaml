@@ -9,33 +9,33 @@ _inputs:
         - heading: Still to translate (es)
           comment: Text to translate on [blog/](https://polite-viper.cloudvent.net/blog/)
           inputs:
-            - 5-things-to-improve-your-email-templates
-            - 7-things-you-didnt-know-about-email
-            - best-email-sending-services
             - blog
             - email
-            - email-delivery-tips
-            - how-to-host-better-email-marketing-campaigns
             - marketing
-            - resources-to-grow-your-email-campaigns
-            - we-believe-that-a-good-email-marketing-strategy-is-the-key-to-growth-so-were-helping-you-grow-your-business-with-tools-and-resources-that-make-email-marketing-easy
-            - what-are-the-best-email-clients
         - heading: Already translated (es)
           comment: Text already translated on
             [blog/](https://polite-viper.cloudvent.net/blog/)
           inputs:
+            - 5-things-to-improve-your-email-templates
+            - 7-things-you-didnt-know-about-email
             - about
             - all-articles
+            - best-email-sending-services
             - community
             - company
             - contact
+            - email-delivery-tips
             - feature
             - home
+            - how-to-host-better-email-marketing-campaigns
             - main-pages
             - price
             - pricing
             - privacy-and-policy
+            - resources-to-grow-your-email-campaigns
             - technology
+            - we-believe-that-a-good-email-marketing-strategy-is-the-key-to-growth-so-were-helping-you-grow-your-business-with-tools-and-resources-that-make-email-marketing-easy
+            - what-are-the-best-email-clients
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
     hidden: false
@@ -207,26 +207,29 @@ _inputs:
     comment: "[See on
       page](https://polite-viper.cloudvent.net/blog/#:~:text=What%20are%20the%2\
       0best%20email%20clients)"
-5-things-to-improve-your-email-templates: ""
-7-things-you-didnt-know-about-email: ""
+5-things-to-improve-your-email-templates: 5 cosas para mejorar tus plantillas de correo electrónico
+7-things-you-didnt-know-about-email: 7 cosas que no sabías sobre el correo electrónico
 about: Acerca de
 all-articles: Todos los artículos
-best-email-sending-services: ""
+best-email-sending-services: Los mejores servicios de envío de correo electrónico
 blog: ""
 community: Comunidad
 company: Compañía
 contact: Contacto
 email: ""
-email-delivery-tips: ""
+email-delivery-tips: Consejos para la entrega de correo electrónico
 feature: Característica
 home: Hogar
-how-to-host-better-email-marketing-campaigns: ""
+how-to-host-better-email-marketing-campaigns: Cómo organizar una mejor campaña de marketing por correo electrónico...
 main-pages: Páginas principales
 marketing: ""
 price: Precio
 pricing: Precios
 privacy-and-policy: Privacidad y política
-resources-to-grow-your-email-campaigns: ""
+resources-to-grow-your-email-campaigns: Recursos para hacer crecer sus campañas de correo electrónico
 technology: Tecnología
-we-believe-that-a-good-email-marketing-strategy-is-the-key-to-growth-so-were-helping-you-grow-your-business-with-tools-and-resources-that-make-email-marketing-easy: ""
-what-are-the-best-email-clients: ""
+we-believe-that-a-good-email-marketing-strategy-is-the-key-to-growth-so-were-helping-you-grow-your-business-with-tools-and-resources-that-make-email-marketing-easy:
+  Creemos que una buena estrategia de email marketing es la clave del
+  crecimiento. Por eso, te ayudamos a hacer crecer tu negocio con herramientas y
+  recursos que facilitan el marketing por correo electrónico.
+what-are-the-best-email-clients: ¿Cuáles son los mejores clientes de correo electrónico?

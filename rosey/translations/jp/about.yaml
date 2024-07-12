@@ -9,24 +9,7 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [about/](https://polite-viper.cloudvent.net/about/)
-          inputs:
-            - built-for-your
-            - cmo
-            - co-founder--ceo
-            - co-founder--cto
-            - cro
-            - follow-on-linkedin
-            - head-of-design
-            - head-of-marketing
-            - head-of-people
-            - head-of-sales
-            - markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers
-            - markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business
-            - markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster
-            - on-a-mission-to-change-email-marketing
-            - our-leadership-team
-            - try-this-free
-            - we-love-what-we-do
+          inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
             [about/](https://polite-viper.cloudvent.net/about/)
@@ -36,20 +19,37 @@ _inputs:
             - all-articles
             - amazing-team-members
             - blog
+            - built-for-your
             - business
+            - cmo
+            - co-founder--ceo
+            - co-founder--cto
             - community
             - company
             - contact
+            - cro
             - established-in
             - feature
+            - follow-on-linkedin
+            - head-of-design
+            - head-of-marketing
+            - head-of-people
+            - head-of-sales
             - home
             - main-pages
+            - markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers
+            - markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business
+            - markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster
             - marketing
+            - on-a-mission-to-change-email-marketing
+            - our-leadership-team
             - price
             - pricing
             - privacy-and-policy
             - technology
+            - try-this-free
             - venture-capital-raised
+            - we-love-what-we-do
   about:
     label: About
     hidden: false
@@ -381,34 +381,34 @@ active-users-and-growing: アクティブユーザーが増加中
 all-articles: すべての記事
 amazing-team-members: 素晴らしいチームメンバー
 blog: ブログ
-built-for-your: ""
+built-for-your: ビジネス向けに構築
 business: 仕事
-cmo: ""
-co-founder--ceo: ""
-co-founder--cto: ""
+cmo: CMO
+co-founder--ceo: 共同創業者 CEO
+co-founder--cto: 共同創業者CTO
 community: コミュニティ
 company: 会社
 contact: 接触
-cro: ""
+cro: CRO
 established-in: に設立されました
 feature: 特徴
-follow-on-linkedin: ""
-head-of-design: ""
-head-of-marketing: ""
-head-of-people: ""
-head-of-sales: ""
+follow-on-linkedin: Linkedin でフォローする
+head-of-design: 設計責任者
+head-of-marketing: マーケティング責任者
+head-of-people: 人々の責任者
+head-of-sales: 営業部長
 home: 家
 main-pages: メインページ
-markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers: ""
-markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business: ""
-markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster: ""
+markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers: 私たちのチームは電子メール マーケティング キャンペーンに数十年の経験があり、お客様と顧客のつながりを支援することに情熱を持っています。
+markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business: 私たちは、電子メール マーケティングに新しい風を吹き込み、お客様のビジネスの成長を支援するためにここにいます。
+markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster: 私たちは、お客様のビジネスをより迅速に成長させるために Sendit をゼロから構築しました。
 marketing: マーケティング
-on-a-mission-to-change-email-marketing: ""
-our-leadership-team: ""
+on-a-mission-to-change-email-marketing: 電子メールマーケティングを変えるという使命を持って
+our-leadership-team: 私たちのリーダーシップチーム
 price: 価格
 pricing: 価格設定
 privacy-and-policy: プライバシーとポリシー
 technology: テクノロジー
-try-this-free: ""
+try-this-free: 無料でお試しください
 venture-capital-raised: ベンチャーキャピタルの調達
-we-love-what-we-do: ""
+we-love-what-we-do: 私たちは自分たちのやっていることを愛しています

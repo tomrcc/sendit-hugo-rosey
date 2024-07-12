@@ -8,9 +8,7 @@ _inputs:
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on [404](https://polite-viper.cloudvent.net/404)
-          inputs:
-            - go-home
-            - this-page-is-missing
+          inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
             [404](https://polite-viper.cloudvent.net/404)
@@ -22,6 +20,7 @@ _inputs:
             - company
             - contact
             - feature
+            - go-home
             - home
             - main-pages
             - marketing
@@ -29,6 +28,7 @@ _inputs:
             - pricing
             - privacy-and-policy
             - technology
+            - this-page-is-missing
   about:
     label: About
     hidden: false
@@ -138,7 +138,7 @@ community: コミュニティ
 company: 会社
 contact: 接触
 feature: 特徴
-go-home: ""
+go-home: 家に帰れ
 home: 家
 main-pages: メインページ
 marketing: マーケティング
@@ -146,4 +146,4 @@ price: 価格
 pricing: 価格設定
 privacy-and-policy: プライバシーとポリシー
 technology: テクノロジー
-this-page-is-missing: ""
+this-page-is-missing: このページはありません。

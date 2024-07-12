@@ -9,19 +9,7 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [contact/](https://polite-viper.cloudvent.net/contact/)
-          inputs:
-            - email
-            - email-address
-            - form-message-placeholder
-            - full-name
-            - lets-talk
-            - markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message
-            - office-address
-            - phone
-            - phone-number
-            - say-hello
-            - send-message
-            - your-message
+          inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
             [contact/](https://polite-viper.cloudvent.net/contact/)
@@ -32,14 +20,26 @@ _inputs:
             - community
             - company
             - contact
+            - email
+            - email-address
             - feature
+            - form-message-placeholder
+            - full-name
             - home
+            - lets-talk
             - main-pages
+            - markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message
             - marketing
+            - office-address
+            - phone
+            - phone-number
             - price
             - pricing
             - privacy-and-policy
+            - say-hello
+            - send-message
             - technology
+            - your-message
   about:
     label: About
     hidden: false
@@ -248,23 +248,23 @@ blog: ブログ
 community: コミュニティ
 company: 会社
 contact: 接触
-email: ""
-email-address: ""
+email: Eメール
+email-address: 電子メールアドレス
 feature: 特徴
-form-message-placeholder: ""
-full-name: ""
+form-message-placeholder: メッセージを入力してください
+full-name: フルネーム
 home: 家
-lets-talk: ""
+lets-talk: 話しましょう。
 main-pages: メインページ
-markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message: ""
+markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message: ご質問やご提案がありますか?お気軽にメッセージをお送りください。
 marketing: マーケティング
-office-address: ""
-phone: ""
-phone-number: ""
+office-address: オフィスの住所
+phone: 電話
+phone-number: 電話番号
 price: 価格
 pricing: 価格設定
 privacy-and-policy: プライバシーとポリシー
-say-hello: ""
-send-message: ""
+say-hello: こんにちはと言う
+send-message: メッセージを送る
 technology: テクノロジー
-your-message: ""
+your-message: あなたのメッセージ
