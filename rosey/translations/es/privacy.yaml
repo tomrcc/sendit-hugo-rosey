@@ -1,0 +1,16 @@
+urlTranslation: privacy/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See privacy/](https://polite-viper.cloudvent.net/privacy/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on
+            [privacy/](https://polite-viper.cloudvent.net/privacy/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [privacy/](https://polite-viper.cloudvent.net/privacy/)
+          inputs: []

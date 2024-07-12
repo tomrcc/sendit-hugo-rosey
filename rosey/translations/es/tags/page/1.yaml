@@ -1,0 +1,16 @@
+urlTranslation: tags/page/1/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See tags/page/1/](https://polite-viper.cloudvent.net/tags/page/1/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on
+            [tags/page/1/](https://polite-viper.cloudvent.net/tags/page/1/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [tags/page/1/](https://polite-viper.cloudvent.net/tags/page/1/)
+          inputs: []

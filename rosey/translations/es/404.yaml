@@ -1,0 +1,15 @@
+urlTranslation: 404.html
+_inputs:
+  $:
+    type: object
+    comment: "[See 404](https://polite-viper.cloudvent.net/404)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on [404](https://polite-viper.cloudvent.net/404)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [404](https://polite-viper.cloudvent.net/404)
+          inputs: []

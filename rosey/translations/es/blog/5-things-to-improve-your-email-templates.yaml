@@ -1,0 +1,18 @@
+urlTranslation: blog/5-things-to-improve-your-email-templates/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See
+      blog/5-things-to-improve-your-email-templates/](https://polite-viper.clou\
+      dvent.net/blog/5-things-to-improve-your-email-templates/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on
+            [blog/5-things-to-improve-your-email-templates/](https://polite-viper.cloudvent.net/blog/5-things-to-improve-your-email-templates/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [blog/5-things-to-improve-your-email-templates/](https://polite-viper.cloudvent.net/blog/5-things-to-improve-your-email-templates/)
+          inputs: []

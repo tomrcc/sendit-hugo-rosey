@@ -1,0 +1,18 @@
+urlTranslation: categories/marketing/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See
+      categories/marketing/](https://polite-viper.cloudvent.net/categories/mark\
+      eting/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (jp)
+          comment: Text to translate on
+            [categories/marketing/](https://polite-viper.cloudvent.net/categories/marketing/)
+          inputs: []
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [categories/marketing/](https://polite-viper.cloudvent.net/categories/marketing/)
+          inputs: []

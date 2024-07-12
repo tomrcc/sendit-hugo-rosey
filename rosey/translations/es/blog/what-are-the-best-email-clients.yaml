@@ -1,0 +1,18 @@
+urlTranslation: blog/what-are-the-best-email-clients/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See
+      blog/what-are-the-best-email-clients/](https://polite-viper.cloudvent.net\
+      /blog/what-are-the-best-email-clients/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on
+            [blog/what-are-the-best-email-clients/](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [blog/what-are-the-best-email-clients/](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/)
+          inputs: []

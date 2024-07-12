@@ -1,0 +1,14 @@
+urlTranslation: index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See ](https://polite-viper.cloudvent.net/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on [](https://polite-viper.cloudvent.net/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on [](https://polite-viper.cloudvent.net/)
+          inputs: []

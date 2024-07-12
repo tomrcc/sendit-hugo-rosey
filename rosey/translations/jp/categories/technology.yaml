@@ -1,0 +1,18 @@
+urlTranslation: categories/technology/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See
+      categories/technology/](https://polite-viper.cloudvent.net/categories/tec\
+      hnology/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (jp)
+          comment: Text to translate on
+            [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
+          inputs: []
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
+          inputs: []

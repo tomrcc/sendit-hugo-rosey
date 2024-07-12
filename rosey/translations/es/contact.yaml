@@ -1,0 +1,16 @@
+urlTranslation: contact/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See contact/](https://polite-viper.cloudvent.net/contact/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on
+            [contact/](https://polite-viper.cloudvent.net/contact/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [contact/](https://polite-viper.cloudvent.net/contact/)
+          inputs: []

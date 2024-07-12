@@ -1,0 +1,18 @@
+urlTranslation: blog/7-things-you-didnt-know-about-email/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See
+      blog/7-things-you-didnt-know-about-email/](https://polite-viper.cloudvent\
+      .net/blog/7-things-you-didnt-know-about-email/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (jp)
+          comment: Text to translate on
+            [blog/7-things-you-didnt-know-about-email/](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-about-email/)
+          inputs: []
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [blog/7-things-you-didnt-know-about-email/](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-about-email/)
+          inputs: []
