@@ -13,7 +13,6 @@ _inputs:
             [categories/marketing/](https://polite-viper.cloudvent.net/categories/marketing/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
-            - how-to-host-better-email-marketing-campaigns
             - what-are-the-best-email-clients
         - heading: Already translated (jp)
           comment: Text already translated on
@@ -29,6 +28,7 @@ _inputs:
             - contact
             - feature
             - home
+            - how-to-host-better-email-marketing-campaigns
             - main-pages
             - marketing
             - price
@@ -262,4 +262,4 @@ price: 価格
 pricing: 価格設定
 privacy-and-policy: プライバシーとポリシー
 technology: テクノロジー
-what-are-the-best-email-clients: ""
+what-are-the-best-email-clients: 最適な電子メール クライアントは何ですか?

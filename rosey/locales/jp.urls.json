@@ -11,33 +11,33 @@
 		"original": "blog/index.html",
 		"value": "blog/index.html"
 	},
-	"contact/index.html": {
-		"original": "contact/index.html",
-		"value": "contact/index.html"
-	},
 	"categories/index.html": {
 		"original": "categories/index.html",
 		"value": "categories/index.html"
+	},
+	"contact/index.html": {
+		"original": "contact/index.html",
+		"value": "contact/index.html"
 	},
 	"feature/index.html": {
 		"original": "feature/index.html",
 		"value": "feature/index.html"
 	},
-	"index.html": {
-		"original": "index.html",
-		"value": "index.html"
-	},
 	"pricing/index.html": {
 		"original": "pricing/index.html",
 		"value": "pricing/index.html"
 	},
-	"privacy/index.html": {
-		"original": "privacy/index.html",
-		"value": "privacy/index.html"
+	"index.html": {
+		"original": "index.html",
+		"value": "index.html"
 	},
 	"tags/index.html": {
 		"original": "tags/index.html",
 		"value": "tags/index.html"
+	},
+	"privacy/index.html": {
+		"original": "privacy/index.html",
+		"value": "privacy/index.html"
 	},
 	"tags/page/1/index.html": {
 		"original": "tags/page/1/index.html",
@@ -55,13 +55,13 @@
 		"original": "categories/technology/index.html",
 		"value": "categories/technology/index.html"
 	},
-	"categories/page/1/index.html": {
-		"original": "categories/page/1/index.html",
-		"value": "categories/page/1/index.html"
-	},
 	"categories/technology/page/1/index.html": {
 		"original": "categories/technology/page/1/index.html",
 		"value": "categories/technology/page/1/index.html"
+	},
+	"categories/page/1/index.html": {
+		"original": "categories/page/1/index.html",
+		"value": "categories/page/1/index.html"
 	},
 	"categories/marketing/page/1/index.html": {
 		"original": "categories/marketing/page/1/index.html",
@@ -71,10 +71,6 @@
 		"original": "categories/email/page/1/index.html",
 		"value": "categories/email/page/1/index.html"
 	},
-	"blog/5-things-to-improve-your-email-templates/index.html": {
-		"original": "blog/5-things-to-improve-your-email-templates/index.html",
-		"value": "blog/5-things-to-improve-your-email-templates/index.html"
-	},
 	"blog/7-things-you-didnt-know-about-email/index.html": {
 		"original": "blog/7-things-you-didnt-know-about-email/index.html",
 		"value": "blog/7-things-you-didnt-know-about-email/index.html"
@@ -82,6 +78,10 @@
 	"blog/best-email-sending-services/index.html": {
 		"original": "blog/best-email-sending-services/index.html",
 		"value": "blog/best-email-sending-services/index.html"
+	},
+	"blog/5-things-to-improve-your-email-templates/index.html": {
+		"original": "blog/5-things-to-improve-your-email-templates/index.html",
+		"value": "blog/5-things-to-improve-your-email-templates/index.html"
 	},
 	"blog/email-delivery-tips/index.html": {
 		"original": "blog/email-delivery-tips/index.html",

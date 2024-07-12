@@ -315,38 +315,6 @@
 		"original": "Wow, what a difference Sendit has made. My customers are more engaged than ever.",
 		"value": "Vaya, qué diferencia ha marcado Sendit. Mis clientes están más comprometidos que nunca."
 	},
-	"100-free-uploads": {
-		"original": "100% free uploads",
-		"value": "Subidas 100% gratis"
-	},
-	"beautiful-email-campaigns": {
-		"original": "Beautiful email campaigns",
-		"value": "Hermosas campañas de correo electrónico"
-	},
-	"email-campaign-in-one-minute": {
-		"original": "Email Campaign in one minute",
-		"value": "Campaña de correo electrónico en un minuto\npolicía del tiempo"
-	},
-	"markdown:our-platform-offers-the-most-advanced-features-including-automated-email-content-creation-dynamic-personalization-and-customer-segmentation": {
-		"original": "Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.",
-		"value": "<p>Nuestra plataforma ofrece las funciones más avanzadas, incluida la creación automatizada de contenido de correo electrónico, personalización dinámica y segmentación de clientes.</p>\n"
-	},
-	"markdown:send-an-email-campaign-with-one-click-in-just-minutes-automate-your-emails-and-content-while-keeping-the-human-touch": {
-		"original": "Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.",
-		"value": "<p>Envía una campaña de correo electrónico con un clic, en solo minutos. Automatiza tus correos electrónicos y contenido, manteniendo el toque humano.</p>\n"
-	},
-	"markdown:we-have-an-extensive-library-of-pre-written-sales-emails-proven-marketing-templates-and-more-to-get-you-started-on-your-next-project": {
-		"original": "We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.",
-		"value": "<p>Contamos con una extensa biblioteca de correos electrónicos de ventas preescritos, plantillas de marketing probadas y más para que pueda comenzar con su próximo proyecto.</p>\n"
-	},
-	"markdown:with-sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-readers-attention-engage-them-and-convert-them-into-customers": {
-		"original": "With Sendit, you can quickly create beautiful rich emails that capture a reader’s attention, engage them, and convert them into customers.",
-		"value": "<p>Con Sendit, puede crear rápidamente hermosos correos electrónicos enriquecidos que capten la atención del lector, los atraigan y los conviertan en clientes.</p>\n"
-	},
-	"scale-your": {
-		"original": "Scale your <span data-rosey=\"business\">Business</span>",
-		"value": "Escala tu negocio"
-	},
 	"1-email-campaign": {
 		"original": "\n                    <i class=\"ph-check\"></i>\n                    1 Email Campaign\n                  ",
 		"value": "1 campaña de correo electrónico"
@@ -410,6 +378,38 @@
 	"unlimited-activity-history": {
 		"original": "\n                    <i class=\"ph-check deactive\"></i>\n                    Unlimited activity history\n                  ",
 		"value": "Historial de actividad ilimitado"
+	},
+	"100-free-uploads": {
+		"original": "100% free uploads",
+		"value": "Subidas 100% gratis"
+	},
+	"beautiful-email-campaigns": {
+		"original": "Beautiful email campaigns",
+		"value": "Hermosas campañas de correo electrónico"
+	},
+	"email-campaign-in-one-minute": {
+		"original": "Email Campaign in one minute",
+		"value": "Campaña de correo electrónico en un minuto\npolicía del tiempo"
+	},
+	"markdown:our-platform-offers-the-most-advanced-features-including-automated-email-content-creation-dynamic-personalization-and-customer-segmentation": {
+		"original": "Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.",
+		"value": "<p>Nuestra plataforma ofrece las funciones más avanzadas, incluida la creación automatizada de contenido de correo electrónico, personalización dinámica y segmentación de clientes.</p>\n"
+	},
+	"markdown:send-an-email-campaign-with-one-click-in-just-minutes-automate-your-emails-and-content-while-keeping-the-human-touch": {
+		"original": "Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.",
+		"value": "<p>Envía una campaña de correo electrónico con un clic, en solo minutos. Automatiza tus correos electrónicos y contenido, manteniendo el toque humano.</p>\n"
+	},
+	"markdown:we-have-an-extensive-library-of-pre-written-sales-emails-proven-marketing-templates-and-more-to-get-you-started-on-your-next-project": {
+		"original": "We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.",
+		"value": "<p>Contamos con una extensa biblioteca de correos electrónicos de ventas preescritos, plantillas de marketing probadas y más para que pueda comenzar con su próximo proyecto.</p>\n"
+	},
+	"markdown:with-sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-readers-attention-engage-them-and-convert-them-into-customers": {
+		"original": "With Sendit, you can quickly create beautiful rich emails that capture a reader’s attention, engage them, and convert them into customers.",
+		"value": "<p>Con Sendit, puede crear rápidamente hermosos correos electrónicos enriquecidos que capten la atención del lector, los atraigan y los conviertan en clientes.</p>\n"
+	},
+	"scale-your": {
+		"original": "Scale your <span data-rosey=\"business\">Business</span>",
+		"value": "Escala tu negocio"
 	},
 	"a-slider-is-great-way-to-display-a-slideshow": {
 		"original": "A slider is great way to display a slideshow",
