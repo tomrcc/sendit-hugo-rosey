@@ -3,8 +3,8 @@
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <div class="section-header @@disply {{ with .no_top_pad }}no-top-pad{{ end }}">
-          <h2>{{ .title }}<span>{{ .title_suffix }}</span></h2>
-          <p>{{ .description | markdownify}}</p>
+          <h2 data-rosey="{{ .title | anchorize }}">{{ .title }}<span>{{ .title_suffix }}</span></h2>
+          <p data-rosey-ns="markdown" data-rosey="{{ .description | anchorize }}">{{ .description | markdownify}}</p>
         </div>
       </div>
     </div>

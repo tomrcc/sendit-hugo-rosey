@@ -6,11 +6,11 @@
     <div class="row align-items-center">
       <div class="col-lg-6">
         <div class="hero-two-content">
-          <h1 class="mb-4">{{.title}}</h1>
-          <p class="mb-7 w-xxl-80">{{.description | markdownify}}</p>
+          <h1 class="mb-4" data-rosey="{{ .title | anchorize }}">{{.title}}</h1>
+          <p class="mb-7 w-xxl-80" data-rosey-ns="markdown" data-rosey="{{ .description | anchorize }}">{{.description | markdownify}}</p>
           <div class="">
             {{with .link}}
-            <a href="{{.url}}" class="btn btn-primary btn-lg"> {{.text}} </a>
+            <a href="{{.url}}" class="btn btn-primary btn-lg" data-rosey="{{ .text | anchorize }}"> {{.text}} </a>
             {{end}}
           </div>
         </div>
