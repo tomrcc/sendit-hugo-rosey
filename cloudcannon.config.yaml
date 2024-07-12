@@ -41,6 +41,21 @@ collections_config:
     disable_add_folder: true
     _enabled_editors:
       - data
+  translations:
+    path: rosey/translations
+    output: false
+    icon: translate
+    disable_add: false
+    add_options:
+      - name: Add Language
+        icon: translate
+        href: cloudcannon:settings/build
+    _inputs:
+      urlTranslation:
+        type: text
+        comment: Provide a translation for the URL that Rosey will build this page at.
+    disable_add_folder: true
+    disable_file_actions: true
 
 paths:
   uploads: static/images
@@ -111,7 +126,7 @@ _inputs:
     options:
       structures: _structures.dropdown
     label: Dropdown Items
-    hidden: "!enable_dropdown"
+    hidden: '!enable_dropdown'
   dropdown_link:
     type: url
     label: Link
@@ -132,7 +147,7 @@ _inputs:
     type: twitter
     label: Twitter Username
   logo_url:
-      comment: Link for the logo in the top left of the footer
+    comment: Link for the logo in the top left of the footer
   copyright:
     comment: Automatically prefixed with the current year
   enable_nav_btn:
@@ -140,7 +155,7 @@ _inputs:
     type: switch
   nav_btn:
     label: Navigation Button
-    hidden: "!enable_nav_btn"
+    hidden: '!enable_nav_btn'
   thumbImg:
     label: Thumbnail Image
   featuredImg:
