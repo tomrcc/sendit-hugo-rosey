@@ -1,0 +1,16 @@
+urlTranslation: pricing/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See pricing/](https://polite-viper.cloudvent.net/pricing/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (jp)
+          comment: Text to translate on
+            [pricing/](https://polite-viper.cloudvent.net/pricing/)
+          inputs: []
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [pricing/](https://polite-viper.cloudvent.net/pricing/)
+          inputs: []

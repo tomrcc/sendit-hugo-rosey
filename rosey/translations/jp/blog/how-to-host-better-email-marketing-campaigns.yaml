@@ -1,0 +1,18 @@
+urlTranslation: blog/how-to-host-better-email-marketing-campaigns/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See
+      blog/how-to-host-better-email-marketing-campaigns/](https://polite-viper.\
+      cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (jp)
+          comment: Text to translate on
+            [blog/how-to-host-better-email-marketing-campaigns/](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
+          inputs: []
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [blog/how-to-host-better-email-marketing-campaigns/](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
+          inputs: []

@@ -1,0 +1,17 @@
+urlTranslation: categories/email/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See
+      categories/email/](https://polite-viper.cloudvent.net/categories/email/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on
+            [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
+          inputs: []

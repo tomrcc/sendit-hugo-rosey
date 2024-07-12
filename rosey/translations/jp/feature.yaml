@@ -1,0 +1,16 @@
+urlTranslation: feature/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See feature/](https://polite-viper.cloudvent.net/feature/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (jp)
+          comment: Text to translate on
+            [feature/](https://polite-viper.cloudvent.net/feature/)
+          inputs: []
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [feature/](https://polite-viper.cloudvent.net/feature/)
+          inputs: []

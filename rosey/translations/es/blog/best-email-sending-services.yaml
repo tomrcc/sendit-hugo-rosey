@@ -1,0 +1,18 @@
+urlTranslation: blog/best-email-sending-services/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See
+      blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blo\
+      g/best-email-sending-services/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on
+            [blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blog/best-email-sending-services/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blog/best-email-sending-services/)
+          inputs: []

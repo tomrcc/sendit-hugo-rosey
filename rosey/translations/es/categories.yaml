@@ -1,0 +1,16 @@
+urlTranslation: categories/index.html
+_inputs:
+  $:
+    type: object
+    comment: "[See categories/](https://polite-viper.cloudvent.net/categories/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es)
+          comment: Text to translate on
+            [categories/](https://polite-viper.cloudvent.net/categories/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [categories/](https://polite-viper.cloudvent.net/categories/)
+          inputs: []
