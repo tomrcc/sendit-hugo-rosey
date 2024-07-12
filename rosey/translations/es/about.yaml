@@ -9,8 +9,96 @@ _inputs:
         - heading: Still to translate (es)
           comment: Text to translate on
             [about/](https://polite-viper.cloudvent.net/about/)
-          inputs: []
+          inputs:
+            - active-users-and-growing
+            - amazing-team-members
+            - built-for-your
+            - business
+            - established-in
+            - markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster
+            - venture-capital-raised
         - heading: Already translated (es)
           comment: Text already translated on
             [about/](https://polite-viper.cloudvent.net/about/)
           inputs: []
+  active-users-and-growing:
+    label: Active users and growing
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Active%20users%20\
+      and%20growing)"
+  amazing-team-members:
+    label: Amazing team members
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Amazing%20team%20\
+      members)"
+  built-for-your:
+    label: Built for your Business
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Built%20for%20you\
+      r%20Business)"
+  business:
+    label: Business
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Business)"
+  established-in:
+    label: Established in
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Established%20in)"
+  markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster:
+    label: We’ve built Sendit from the ground up the ...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      format: p h1 h2 h3 h4
+      italic: true
+      link: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+      bulletedlist: true
+      numberedlist: true
+      blockquote: true
+      superscript: true
+      subscript: true
+      code: true
+      horizontalrule: true
+      image: true
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=We%E2%80%99ve%20b\
+      uilt%20Sendit,your%20business%20faster)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: We’ve built Sendit from the ground up the help grow your business faster.
+  venture-capital-raised:
+    label: Venture capital raised
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Venture%20capital\
+      %20raised)"
+active-users-and-growing: Usuarios activos y en crecimiento
+amazing-team-members: Miembros del equipo increíbles
+built-for-your: ""
+business: Negocio
+established-in: Establecido en
+markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster: ""
+venture-capital-raised: Capital riesgo recaudado

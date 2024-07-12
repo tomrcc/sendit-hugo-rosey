@@ -8,8 +8,8 @@ counter-up-two pb-xxl-14 pb-lg-13
     <div class="row">
       <div class="col-lg-12">
         <div class="section-header">
-          <h2>{{.title}} <span>{{.title_suffix}}</span></h2>
-          <p>{{.description | markdownify}}</p>
+          <h2 data-rosey="{{ .title | anchorize }}">{{.title}} <span data-rosey="{{ .title_suffix | anchorize }}">{{.title_suffix}}</span></h2>
+          <p data-rosey-ns="markdown" data-rosey="{{ .description | anchorize }}">{{.description | markdownify}}</p>
         </div>
       </div>
       <div class="col-12">
@@ -26,7 +26,7 @@ counter-up-two pb-xxl-14 pb-lg-13
                 <span class="percent">{{.suffix}}</span>
                 {{ end }}
               </div>
-              <p>{{.text}}</p>
+              <p data-rosey="{{ .text | anchorize }}">{{.text}}</p>
             </div>
           </div>
           {{ end }}

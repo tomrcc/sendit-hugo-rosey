@@ -1,1 +1,134 @@
-{}
+{
+	"active-users-and-growing": {
+		"original": "Active users and growing",
+		"value": "Usuarios activos y en crecimiento"
+	},
+	"amazing-team-members": {
+		"original": "Amazing team members",
+		"value": "Miembros del equipo increíbles"
+	},
+	"built-for-your": {
+		"original": "Built for your <span data-rosey=\"business\">Business</span>",
+		"value": "Built for your <span data-rosey=\"business\">Business</span>"
+	},
+	"business": {
+		"original": "Business",
+		"value": "Negocio"
+	},
+	"established-in": {
+		"original": "Established in",
+		"value": "Establecido en"
+	},
+	"markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster": {
+		"original": "We’ve built Sendit from the ground up the help grow your business faster.",
+		"value": "We’ve built Sendit from the ground up the help grow your business faster."
+	},
+	"venture-capital-raised": {
+		"original": "Venture capital raised",
+		"value": "Capital riesgo recaudado"
+	},
+	"build-relationships-that": {
+		"original": "Build relationships that <span data-rosey=\"last\"> last</span>",
+		"value": "Construya relaciones que duren"
+	},
+	"cmo-at-clear-appeal": {
+		"original": "CMO at Clear Appeal",
+		"value": "CMO en Clear Appeal"
+	},
+	"digital-marketer-at-time-cop": {
+		"original": "Digital Marketer at Time Cop",
+		"value": "Comercializador digital en Time Cop"
+	},
+	"free-templates-to-get-you-started": {
+		"original": "Free templates to get you started",
+		"value": "Free templates to get you started"
+	},
+	"head-of-marketing-at-pinnacle-mines": {
+		"original": "Head of Marketing at Pinnacle Mines",
+		"value": "Jefe de Marketing en Pinnacle Mines"
+	},
+	"i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before": {
+		"original": "I can't imagine life without Sendit now, I have no idea how we were surviving before.",
+		"value": "No puedo imaginar la vida sin Sendit ahora, no tengo idea de cómo sobrevivíamos antes."
+	},
+	"last": {
+		"original": " last",
+		"value": "último"
+	},
+	"markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns": {
+		"original": "Customers from around the world are building game changing email marketing campaigns.",
+		"value": "<p>Clientes de todo el mundo están creando campañas de marketing por correo electrónico innovadoras.</p>\n"
+	},
+	"markdown:make-your-message-stand-out-thanks-to-the-guided-copywriting-and-design-features-triggering-a-positive-response-from-your-customers": {
+		"original": "Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.",
+		"value": "Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers."
+	},
+	"markdown:sales-analytics-and-automation-made-simple-see-every-sales-lead-in-one-place-regardless-of-where-it-came-from": {
+		"original": "Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.",
+		"value": "<p>Análisis y automatización de ventas simplificados: vea cada cliente potencial de ventas en un solo lugar, independientemente de su procedencia.</p>\n"
+	},
+	"markdown:sendit-is-the-most-complete-solution-to-create-beautiful-email-designs-manage-mails-and-send-them-out-at-the-best-price": {
+		"original": "Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.",
+		"value": "Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price."
+	},
+	"markdown:sendit-is-used-by-everyone-from-small-businesses-to-fortune-500-companies-browse-our-collection-of-email-marketing-templates-and-start-sending-beautiful-emails-in-minutes": {
+		"original": "SendIt is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.",
+		"value": "<p>SendIt es utilizado por todos, desde pequeñas empresas hasta empresas Fortune 500. Explore nuestra colección de plantillas de marketing por correo electrónico y comience a enviar hermosos correos electrónicos en minutos.</p>\n"
+	},
+	"see-every-lead-in-one-place": {
+		"original": "See every Lead in one Place",
+		"value": "Vea todos los clientes potenciales en un solo lugar"
+	},
+	"sendit": {
+		"original": "Sendit <span>Features</span>",
+		"value": "Funciones de envío"
+	},
+	"sendit-has-taken-clear-appeal-to-the-next-level-with-its-beautiful-targetted-email-campaigns": {
+		"original": "Sendit has taken Clear Appeal to the next level with it's beautiful targetted email campaigns.",
+		"value": "Sendit ha llevado Clear Appeal al siguiente nivel con sus hermosas campañas de correo electrónico dirigidas."
+	},
+	"simply-click-and-send": {
+		"original": "Simply click and send",
+		"value": "Simply click and send"
+	},
+	"try-this-free": {
+		"original": " Try This Free ",
+		"value": "Pruebe esto gratis"
+	},
+	"wow-what-a-difference-sendit-has-made-my-customers-are-more-engaged-than-ever": {
+		"original": "Wow, what a difference Sendit has made. My customers are more engaged than ever.",
+		"value": "Vaya, qué diferencia ha marcado Sendit. Mis clientes están más comprometidos que nunca."
+	},
+	"100-free-uploads": {
+		"original": "100% free uploads",
+		"value": "Subidas 100% gratis"
+	},
+	"beautiful-email-campaigns": {
+		"original": "Beautiful email campaigns",
+		"value": "Hermosas campañas de correo electrónico"
+	},
+	"email-campaign-in-one-minute": {
+		"original": "Email Campaign in one minute",
+		"value": "Campaña de correo electrónico en un minuto\npolicía del tiempo"
+	},
+	"markdown:our-platform-offers-the-most-advanced-features-including-automated-email-content-creation-dynamic-personalization-and-customer-segmentation": {
+		"original": "Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.",
+		"value": "<p>Nuestra plataforma ofrece las funciones más avanzadas, incluida la creación automatizada de contenido de correo electrónico, personalización dinámica y segmentación de clientes.</p>\n"
+	},
+	"markdown:send-an-email-campaign-with-one-click-in-just-minutes-automate-your-emails-and-content-while-keeping-the-human-touch": {
+		"original": "Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.",
+		"value": "<p>Envía una campaña de correo electrónico con un clic, en solo minutos. Automatiza tus correos electrónicos y contenido, manteniendo el toque humano.</p>\n"
+	},
+	"markdown:we-have-an-extensive-library-of-pre-written-sales-emails-proven-marketing-templates-and-more-to-get-you-started-on-your-next-project": {
+		"original": "We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.",
+		"value": "<p>Contamos con una extensa biblioteca de correos electrónicos de ventas preescritos, plantillas de marketing probadas y más para que pueda comenzar con su próximo proyecto.</p>\n"
+	},
+	"markdown:with-sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-readers-attention-engage-them-and-convert-them-into-customers": {
+		"original": "With Sendit, you can quickly create beautiful rich emails that capture a reader’s attention, engage them, and convert them into customers.",
+		"value": "<p>Con Sendit, puede crear rápidamente hermosos correos electrónicos enriquecidos que capten la atención del lector, los atraigan y los conviertan en clientes.</p>\n"
+	},
+	"scale-your": {
+		"original": "Scale your <span data-rosey=\"business\">Business</span>",
+		"value": "Escala tu negocio"
+	}
+}

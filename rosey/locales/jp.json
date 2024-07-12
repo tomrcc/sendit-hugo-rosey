@@ -1,1 +1,134 @@
-{}
+{
+	"active-users-and-growing": {
+		"original": "Active users and growing",
+		"value": "アクティブユーザーが増加中"
+	},
+	"amazing-team-members": {
+		"original": "Amazing team members",
+		"value": "素晴らしいチームメンバー"
+	},
+	"built-for-your": {
+		"original": "Built for your <span data-rosey=\"business\">Business</span>",
+		"value": "Built for your <span data-rosey=\"business\">Business</span>"
+	},
+	"business": {
+		"original": "Business",
+		"value": "仕事"
+	},
+	"established-in": {
+		"original": "Established in",
+		"value": "に設立されました"
+	},
+	"markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster": {
+		"original": "We’ve built Sendit from the ground up the help grow your business faster.",
+		"value": "We’ve built Sendit from the ground up the help grow your business faster."
+	},
+	"venture-capital-raised": {
+		"original": "Venture capital raised",
+		"value": "ベンチャーキャピタルの調達"
+	},
+	"build-relationships-that": {
+		"original": "Build relationships that <span data-rosey=\"last\"> last</span>",
+		"value": "長続きする関係を構築する"
+	},
+	"cmo-at-clear-appeal": {
+		"original": "CMO at Clear Appeal",
+		"value": "クリアアピール社CMO"
+	},
+	"digital-marketer-at-time-cop": {
+		"original": "Digital Marketer at Time Cop",
+		"value": "Time Cop のデジタル マーケター"
+	},
+	"free-templates-to-get-you-started": {
+		"original": "Free templates to get you started",
+		"value": "Free templates to get you started"
+	},
+	"head-of-marketing-at-pinnacle-mines": {
+		"original": "Head of Marketing at Pinnacle Mines",
+		"value": "Pinnacle Mines のマーケティング責任者"
+	},
+	"i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before": {
+		"original": "I can't imagine life without Sendit now, I have no idea how we were surviving before.",
+		"value": "今ではSenditのいない生活は想像できませんし、以前はどうやって生きていたのか全く分かりません。"
+	},
+	"last": {
+		"original": " last",
+		"value": "最後"
+	},
+	"markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns": {
+		"original": "Customers from around the world are building game changing email marketing campaigns.",
+		"value": "<p>世界中の顧客が、革新的な電子メール マーケティング キャンペーンを構築しています。</p>\n"
+	},
+	"markdown:make-your-message-stand-out-thanks-to-the-guided-copywriting-and-design-features-triggering-a-positive-response-from-your-customers": {
+		"original": "Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.",
+		"value": "Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers."
+	},
+	"markdown:sales-analytics-and-automation-made-simple-see-every-sales-lead-in-one-place-regardless-of-where-it-came-from": {
+		"original": "Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.",
+		"value": "<p>販売分析と自動化がシンプルになり、販売見込み客がどこから来たのかに関係なく、すべての販売見込み客を 1 か所で確認できます。</p>\n"
+	},
+	"markdown:sendit-is-the-most-complete-solution-to-create-beautiful-email-designs-manage-mails-and-send-them-out-at-the-best-price": {
+		"original": "Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.",
+		"value": "Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price."
+	},
+	"markdown:sendit-is-used-by-everyone-from-small-businesses-to-fortune-500-companies-browse-our-collection-of-email-marketing-templates-and-start-sending-beautiful-emails-in-minutes": {
+		"original": "SendIt is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.",
+		"value": "<p>SendIt は、中小企業からフォーチュン 500 企業まで、あらゆる企業に使用されています。電子メール マーケティング テンプレートのコレクションを参照して、数分で美しい電子メールの送信を開始できます。</p>\n"
+	},
+	"see-every-lead-in-one-place": {
+		"original": "See every Lead in one Place",
+		"value": "すべてのリードを 1 か所で確認"
+	},
+	"sendit": {
+		"original": "Sendit <span>Features</span>",
+		"value": "送信機能"
+	},
+	"sendit-has-taken-clear-appeal-to-the-next-level-with-its-beautiful-targetted-email-campaigns": {
+		"original": "Sendit has taken Clear Appeal to the next level with it's beautiful targetted email campaigns.",
+		"value": "Sendit は、ターゲットを絞った美しい電子メール キャンペーンにより、Clear Appeal を次のレベルに引き上げました。"
+	},
+	"simply-click-and-send": {
+		"original": "Simply click and send",
+		"value": "Simply click and send"
+	},
+	"try-this-free": {
+		"original": " Try This Free ",
+		"value": "無料でお試しください"
+	},
+	"wow-what-a-difference-sendit-has-made-my-customers-are-more-engaged-than-ever": {
+		"original": "Wow, what a difference Sendit has made. My customers are more engaged than ever.",
+		"value": "うわー、Sendit はなんと大きな変化をもたらしたのでしょう。私の顧客はこれまで以上に熱心になっています。"
+	},
+	"100-free-uploads": {
+		"original": "100% free uploads",
+		"value": "100 個の無料アップロード"
+	},
+	"beautiful-email-campaigns": {
+		"original": "Beautiful email campaigns",
+		"value": "美しいメールキャンペーン"
+	},
+	"email-campaign-in-one-minute": {
+		"original": "Email Campaign in one minute",
+		"value": "1分でわかるメールキャンペーン"
+	},
+	"markdown:our-platform-offers-the-most-advanced-features-including-automated-email-content-creation-dynamic-personalization-and-customer-segmentation": {
+		"original": "Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.",
+		"value": "<p>当社のプラットフォームは、電子メール コンテンツの自動作成、動的なパーソナライゼーション、顧客のセグメント化などの最先端の機能を提供します。</p>\n"
+	},
+	"markdown:send-an-email-campaign-with-one-click-in-just-minutes-automate-your-emails-and-content-while-keeping-the-human-touch": {
+		"original": "Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.",
+		"value": "<p>ワンクリックでわずか数分でメールキャンペーンを送信できます。人間らしいタッチを保ちながら、電子メールとコンテンツを自動化します。</p>\n"
+	},
+	"markdown:we-have-an-extensive-library-of-pre-written-sales-emails-proven-marketing-templates-and-more-to-get-you-started-on-your-next-project": {
+		"original": "We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.",
+		"value": "<p>次のプロジェクトに着手できるように、事前に作成されたセールス メール、実績のあるマーケティング テンプレートなどの広範なライブラリを用意しています。</p>\n"
+	},
+	"markdown:with-sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-readers-attention-engage-them-and-convert-them-into-customers": {
+		"original": "With Sendit, you can quickly create beautiful rich emails that capture a reader’s attention, engage them, and convert them into customers.",
+		"value": "<p>Sendit を使用すると、読者の注意を引き、関心を引き、顧客に変える美しくリッチな電子メールをすばやく作成できます。</p>\n"
+	},
+	"scale-your": {
+		"original": "Scale your <span data-rosey=\"business\">Business</span>",
+		"value": "ビジネスを拡大する"
+	}
+}

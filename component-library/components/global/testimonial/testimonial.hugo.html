@@ -3,8 +3,8 @@
     <div class="row align-items-center">
       <div class="col-lg-8 mx-auto text-center mb-5">
         <div class="testimonial-content">
-          <h2>{{.title}} <span> {{.title_suffix}}</span></h2>
-          <p>{{.description | markdownify}}</p>
+          <h2 data-rosey="{{ .title | anchorize }}">{{.title}} <span data-rosey="{{ .title_suffix | anchorize }}"> {{.title_suffix}}</span></h2>
+          <p data-rosey-ns="markdown" data-rosey="{{ .description | anchorize }}">{{.description | markdownify}}</p>
         </div>
       </div>
     </div>
@@ -23,10 +23,10 @@
             </div>
             <div class="content">
               <h3>{{.author}}</h3>
-              <p>{{.designation}}</p>
+              <p data-rosey="{{ .designation | anchorize }}">{{.designation}}</p>
             </div>
           </div>
-          <p>{{.message}}</p>
+          <p data-rosey="{{ .message | anchorize }}">{{.message}}</p>
         </div>
       </div>
       {{ end }}

@@ -15,25 +15,25 @@
 		"original": "categories/index.html",
 		"value": "categories/index.html"
 	},
-	"contact/index.html": {
-		"original": "contact/index.html",
-		"value": "contact/index.html"
-	},
 	"feature/index.html": {
 		"original": "feature/index.html",
 		"value": "feature/index.html"
+	},
+	"contact/index.html": {
+		"original": "contact/index.html",
+		"value": "contact/index.html"
 	},
 	"index.html": {
 		"original": "index.html",
 		"value": "index.html"
 	},
-	"privacy/index.html": {
-		"original": "privacy/index.html",
-		"value": "privacy/index.html"
-	},
 	"pricing/index.html": {
 		"original": "pricing/index.html",
 		"value": "pricing/index.html"
+	},
+	"privacy/index.html": {
+		"original": "privacy/index.html",
+		"value": "privacy/index.html"
 	},
 	"tags/index.html": {
 		"original": "tags/index.html",
@@ -55,10 +55,6 @@
 		"original": "categories/technology/index.html",
 		"value": "categories/technology/index.html"
 	},
-	"categories/page/1/index.html": {
-		"original": "categories/page/1/index.html",
-		"value": "categories/page/1/index.html"
-	},
 	"categories/technology/page/1/index.html": {
 		"original": "categories/technology/page/1/index.html",
 		"value": "categories/technology/page/1/index.html"
@@ -66,6 +62,10 @@
 	"categories/marketing/page/1/index.html": {
 		"original": "categories/marketing/page/1/index.html",
 		"value": "categories/marketing/page/1/index.html"
+	},
+	"categories/page/1/index.html": {
+		"original": "categories/page/1/index.html",
+		"value": "categories/page/1/index.html"
 	},
 	"categories/email/page/1/index.html": {
 		"original": "categories/email/page/1/index.html",
