@@ -2,12 +2,13 @@ urlTranslation: pricing/index.html
 _inputs:
   $:
     type: object
-    comment: "[See pricing/](https://polite-viper.cloudvent.net/pricing/)"
+    comment: '[See pricing/](https://polite-viper.cloudvent.net/pricing/)'
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
-          comment: Text to translate on
+          comment: >-
+            Text to translate on
             [pricing/](https://polite-viper.cloudvent.net/pricing/)
           inputs:
             - 1-email-campaign
@@ -43,7 +44,8 @@ _inputs:
             - try-this-free
             - unlimited-activity-history
         - heading: Already translated (es)
-          comment: Text already translated on
+          comment: >-
+            Text already translated on
             [pricing/](https://polite-viper.cloudvent.net/pricing/)
           inputs: []
   1-email-campaign:
@@ -51,128 +53,131 @@ _inputs:
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=1%20Email%20Cam\
-      paign)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=1%20Email%20Campaign)
   1-year-premium-support:
     label: 1 Year Premium Support
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=1%20Year%20Prem\
-      ium%20Support)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=1%20Year%20Premium%20Support)
   20-email-campaigns:
     label: 20 Email Campaigns
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=20%20Email%20Ca\
-      mpaigns)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=20%20Email%20Campaigns)
   23-templates:
     label: 23 Templates
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=23%20Templates)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=23%20Templates)
   3-filters:
     label: 3 filters
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=3%20filters)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=3%20filters)
   5-email-campaigns:
     label: 5 Email Campaigns
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=5%20Email%20Cam\
-      paigns)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=5%20Email%20Campaigns)
   90-widgets--extensions:
     label: 90 Widgets  Extensions
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=90%20Widgets%20\
-      %20Extensions)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=90%20Widgets%20%20Extensions)
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=About)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=About)'
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=All%20Articles)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=All%20Articles)
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Blog)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Blog)'
   business:
     label: Business
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Business)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Business)
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Community)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Community)
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Company)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Company)'
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Contact)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Contact)'
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Feature)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Feature)'
   free:
     label: Free
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Free)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Free)'
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Home)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Home)'
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Main%20Pages)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Main%20Pages)
   markdown:all-the-bells-and-whistles:
     label: All the bells and whistles.
     hidden: false
@@ -194,9 +199,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=All%20the%20bel\
-      ls%20and%20whistles)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=All%20the%20bells%20and%20whistles)
   markdown:everything-you-need-to-get-started:
     label: Everything you need to get started.
     hidden: false
@@ -218,9 +223,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Everything%20yo\
-      u%20need%20to%20get%20started)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Everything%20you%20need%20to%20get%20started)
   markdown:more-collaborative-power:
     label: More collaborative power.
     hidden: false
@@ -242,118 +247,118 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=More%20collabor\
-      ative%20power)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=More%20collaborative%20power)
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Marketing)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Marketing)
   over-800-section-blocks:
     label: Over 800 Section Blocks
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Over%20800%20Se\
-      ction%20Blocks)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Over%20800%20Section%20Blocks)
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Price)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Price)'
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Pricing)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Pricing)'
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Privacy%20and%2\
-      0Policy)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Privacy%20and%20Policy)
   pro:
     label: Pro
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Pro)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Pro)'
   regular-update-for-1-year:
     label: Regular Update for 1 Year
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Regular%20Updat\
-      e%20for%201%20Year)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Regular%20Update%20for%201%20Year)
   support:
     label: Support
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Support)"
+    comment: '[See on page](https://polite-viper.cloudvent.net/pricing/#:~:text=Support)'
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Technology)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Technology)
   try-this-free:
     label: Try This Free
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Try%20This%20Fr\
-      ee)"
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Try%20This%20Free)
   unlimited-activity-history:
     label: Unlimited activity history
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Unlimited%20act\
-      ivity%20history)"
-1-email-campaign: ""
-1-year-premium-support: ""
-20-email-campaigns: ""
-23-templates: ""
-3-filters: ""
-5-email-campaigns: ""
-90-widgets--extensions: ""
+    comment: >-
+      [See on
+      page](https://polite-viper.cloudvent.net/pricing/#:~:text=Unlimited%20activity%20history)
+1-email-campaign: 1 campaña de correo electrónico
+1-year-premium-support: Soporte premium de 1 año
+20-email-campaigns: 20 campañas de correo electrónico
+23-templates: 23 Plantillas
+3-filters: 3 filtros
+5-email-campaigns: 5 campañas de correo electrónico
+90-widgets--extensions: 90 extensiones de widgets
 about: Acerca de
 all-articles: Todos los artículos
-blog: ""
-business: ""
+blog: Blog
+business: Negocio
 community: Comunidad
 company: Compañía
 contact: Contacto
 feature: Característica
-free: ""
+free: ''
 home: Hogar
 main-pages: Páginas principales
-markdown:all-the-bells-and-whistles: ""
-markdown:everything-you-need-to-get-started: ""
-markdown:more-collaborative-power: ""
-marketing: ""
-over-800-section-blocks: ""
+markdown:all-the-bells-and-whistles: Todas las campanas y silbatos.
+markdown:everything-you-need-to-get-started: Todo lo que necesitas para empezar.
+markdown:more-collaborative-power: Más poder colaborativo.
+marketing: Marketing
+over-800-section-blocks: Más de 800 bloques de secciones
 price: Precio
 pricing: Precios
 privacy-and-policy: Privacidad y política
-pro: ""
-regular-update-for-1-year: ""
-support: ""
+pro: Pro
+regular-update-for-1-year: Actualización periódica durante 1 año
+support: Apoyo
 technology: Tecnología
-try-this-free: ""
-unlimited-activity-history: ""
+try-this-free: Pruebe esto gratis
+unlimited-activity-history: Historial de actividad ilimitado
