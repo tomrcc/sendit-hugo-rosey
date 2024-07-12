@@ -12,14 +12,18 @@ _inputs:
             [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
+            - email
+            - email-delivery-tips
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
+          inputs:
             - about
             - all-articles
             - blog
             - community
             - company
             - contact
-            - email
-            - email-delivery-tips
             - feature
             - home
             - main-pages
@@ -28,10 +32,6 @@ _inputs:
             - pricing
             - privacy-and-policy
             - technology
-        - heading: Already translated (jp)
-          comment: Text already translated on
-            [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
-          inputs: []
   /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
     label: ""
     hidden: true

@@ -11,29 +11,29 @@ _inputs:
             [privacy/](https://polite-viper.cloudvent.net/privacy/)
           inputs:
             - a-slider-is-great-way-to-display-a-slideshow
-            - about
             - account-information--payments
-            - all-articles
             - blog
-            - community
-            - company
-            - contact
-            - feature
-            - home
-            - main-pages
             - marketing
-            - price
-            - pricing
-            - privacy-and-policy
             - sendit-terms-and-conditions
-            - technology
             - terms--condition
             - the-main-benefit-of-using-sliders-is-presenting-all-the-contents-in-a-visually-pleasing-manner
             - the-wordpress-sites-being-easy-to-use-offers-many-plugins-for-slider-you-could-imagine-slideshows-in-your-head-and-make-them-true-on-the-screen
         - heading: Already translated (es)
           comment: Text already translated on
             [privacy/](https://polite-viper.cloudvent.net/privacy/)
-          inputs: []
+          inputs:
+            - about
+            - all-articles
+            - community
+            - company
+            - contact
+            - feature
+            - home
+            - main-pages
+            - price
+            - pricing
+            - privacy-and-policy
+            - technology
   a-slider-is-great-way-to-display-a-slideshow:
     label: A slider is great way to display a slidesh...
     hidden: false

@@ -9,6 +9,12 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on [404](https://polite-viper.cloudvent.net/404)
           inputs:
+            - go-home
+            - this-page-is-missing
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [404](https://polite-viper.cloudvent.net/404)
+          inputs:
             - about
             - all-articles
             - blog
@@ -16,7 +22,6 @@ _inputs:
             - company
             - contact
             - feature
-            - go-home
             - home
             - main-pages
             - marketing
@@ -24,11 +29,6 @@ _inputs:
             - pricing
             - privacy-and-policy
             - technology
-            - this-page-is-missing
-        - heading: Already translated (jp)
-          comment: Text already translated on
-            [404](https://polite-viper.cloudvent.net/404)
-          inputs: []
   about:
     label: About
     hidden: false

@@ -14,29 +14,29 @@ _inputs:
           inputs:
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
-            - about
-            - all-articles
             - best-email-sending-services
             - blog
+            - marketing
+            - minutes
+            - recent-blog
+            - static:/blog/best-email-sending-services/
+            - words
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blog/best-email-sending-services/)
+          inputs:
+            - about
+            - all-articles
             - community
             - company
             - contact
             - feature
             - home
             - main-pages
-            - marketing
-            - minutes
             - price
             - pricing
             - privacy-and-policy
-            - recent-blog
-            - static:/blog/best-email-sending-services/
             - technology
-            - words
-        - heading: Already translated (es)
-          comment: Text already translated on
-            [blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blog/best-email-sending-services/)
-          inputs: []
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
     hidden: false

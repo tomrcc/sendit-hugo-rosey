@@ -10,45 +10,45 @@ _inputs:
           comment: Text to translate on
             [about/](https://polite-viper.cloudvent.net/about/)
           inputs:
-            - about
-            - all-articles
-            - blog
             - built-for-your
             - cmo
             - co-founder--ceo
             - co-founder--cto
-            - community
-            - company
-            - contact
             - cro
-            - feature
             - follow-on-linkedin
             - head-of-design
             - head-of-marketing
             - head-of-people
             - head-of-sales
-            - home
-            - main-pages
             - markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers
             - markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business
             - markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster
-            - marketing
             - on-a-mission-to-change-email-marketing
             - our-leadership-team
-            - price
-            - pricing
-            - privacy-and-policy
-            - technology
             - try-this-free
             - we-love-what-we-do
         - heading: Already translated (jp)
           comment: Text already translated on
             [about/](https://polite-viper.cloudvent.net/about/)
           inputs:
+            - about
             - active-users-and-growing
+            - all-articles
             - amazing-team-members
+            - blog
             - business
+            - community
+            - company
+            - contact
             - established-in
+            - feature
+            - home
+            - main-pages
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
+            - technology
             - venture-capital-raised
   about:
     label: About

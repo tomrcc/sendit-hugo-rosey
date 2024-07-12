@@ -9,26 +9,26 @@ _inputs:
         - heading: Still to translate (es)
           comment: Text to translate on [404](https://polite-viper.cloudvent.net/404)
           inputs:
-            - about
-            - all-articles
             - blog
-            - community
-            - company
-            - contact
-            - feature
             - go-home
-            - home
-            - main-pages
             - marketing
-            - price
-            - pricing
-            - privacy-and-policy
-            - technology
             - this-page-is-missing
         - heading: Already translated (es)
           comment: Text already translated on
             [404](https://polite-viper.cloudvent.net/404)
-          inputs: []
+          inputs:
+            - about
+            - all-articles
+            - community
+            - company
+            - contact
+            - feature
+            - home
+            - main-pages
+            - price
+            - pricing
+            - privacy-and-policy
+            - technology
   about:
     label: About
     hidden: false

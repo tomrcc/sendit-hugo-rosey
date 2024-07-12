@@ -10,42 +10,42 @@ _inputs:
           comment: Text to translate on
             [feature/](https://polite-viper.cloudvent.net/feature/)
           inputs:
-            - about
-            - all-articles
-            - blog
-            - community
-            - company
-            - contact
-            - feature
             - free-templates-to-get-you-started
-            - home
-            - main-pages
             - markdown:make-your-message-stand-out-thanks-to-the-guided-copywriting-and-design-features-triggering-a-positive-response-from-your-customers
             - markdown:sendit-is-the-most-complete-solution-to-create-beautiful-email-designs-manage-mails-and-send-them-out-at-the-best-price
             - markdown:sendit-will-change-the-way-you-think-about-email-and-marketing-automation
-            - marketing
-            - price
-            - pricing
-            - privacy-and-policy
             - run-the-best-campaigns
             - simply-click-and-send
-            - technology
         - heading: Already translated (jp)
           comment: Text already translated on
             [feature/](https://polite-viper.cloudvent.net/feature/)
           inputs:
+            - about
+            - all-articles
+            - blog
             - build-relationships-that
             - cmo-at-clear-appeal
+            - community
+            - company
+            - contact
             - digital-marketer-at-time-cop
+            - feature
             - head-of-marketing-at-pinnacle-mines
+            - home
             - i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before
             - last
+            - main-pages
             - markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns
             - markdown:sales-analytics-and-automation-made-simple-see-every-sales-lead-in-one-place-regardless-of-where-it-came-from
             - markdown:sendit-is-used-by-everyone-from-small-businesses-to-fortune-500-companies-browse-our-collection-of-email-marketing-templates-and-start-sending-beautiful-emails-in-minutes
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
             - see-every-lead-in-one-place
             - sendit
             - sendit-has-taken-clear-appeal-to-the-next-level-with-its-beautiful-targetted-email-campaigns
+            - technology
             - try-this-free
             - wow-what-a-difference-sendit-has-made-my-customers-are-more-engaged-than-ever
   about:

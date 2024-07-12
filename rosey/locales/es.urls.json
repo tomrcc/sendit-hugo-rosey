@@ -15,10 +15,6 @@
 		"original": "categories/index.html",
 		"value": "categories/index.html"
 	},
-	"contact/index.html": {
-		"original": "contact/index.html",
-		"value": "contact/index.html"
-	},
 	"feature/index.html": {
 		"original": "feature/index.html",
 		"value": "feature/index.html"
@@ -27,13 +23,17 @@
 		"original": "index.html",
 		"value": "index.html"
 	},
-	"pricing/index.html": {
-		"original": "pricing/index.html",
-		"value": "pricing/index.html"
+	"contact/index.html": {
+		"original": "contact/index.html",
+		"value": "contact/index.html"
 	},
 	"privacy/index.html": {
 		"original": "privacy/index.html",
 		"value": "privacy/index.html"
+	},
+	"pricing/index.html": {
+		"original": "pricing/index.html",
+		"value": "pricing/index.html"
 	},
 	"tags/index.html": {
 		"original": "tags/index.html",
@@ -63,6 +63,10 @@
 		"original": "categories/page/1/index.html",
 		"value": "categories/page/1/index.html"
 	},
+	"blog/5-things-to-improve-your-email-templates/index.html": {
+		"original": "blog/5-things-to-improve-your-email-templates/index.html",
+		"value": "blog/5-things-to-improve-your-email-templates/index.html"
+	},
 	"categories/marketing/page/1/index.html": {
 		"original": "categories/marketing/page/1/index.html",
 		"value": "categories/marketing/page/1/index.html"
@@ -70,10 +74,6 @@
 	"categories/email/page/1/index.html": {
 		"original": "categories/email/page/1/index.html",
 		"value": "categories/email/page/1/index.html"
-	},
-	"blog/5-things-to-improve-your-email-templates/index.html": {
-		"original": "blog/5-things-to-improve-your-email-templates/index.html",
-		"value": "blog/5-things-to-improve-your-email-templates/index.html"
 	},
 	"blog/7-things-you-didnt-know-about-email/index.html": {
 		"original": "blog/7-things-you-didnt-know-about-email/index.html",
@@ -83,13 +83,13 @@
 		"original": "blog/best-email-sending-services/index.html",
 		"value": "blog/best-email-sending-services/index.html"
 	},
-	"blog/email-delivery-tips/index.html": {
-		"original": "blog/email-delivery-tips/index.html",
-		"value": "blog/email-delivery-tips/index.html"
-	},
 	"blog/how-to-host-better-email-marketing-campaigns/index.html": {
 		"original": "blog/how-to-host-better-email-marketing-campaigns/index.html",
 		"value": "blog/how-to-host-better-email-marketing-campaigns/index.html"
+	},
+	"blog/email-delivery-tips/index.html": {
+		"original": "blog/email-delivery-tips/index.html",
+		"value": "blog/email-delivery-tips/index.html"
 	},
 	"blog/what-are-the-best-email-clients/index.html": {
 		"original": "blog/what-are-the-best-email-clients/index.html",

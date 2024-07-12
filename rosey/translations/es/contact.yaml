@@ -10,9 +10,18 @@ _inputs:
           comment: Text to translate on
             [contact/](https://polite-viper.cloudvent.net/contact/)
           inputs:
+            - blog
+            - marketing
+            - phone
+            - phone-number
+            - send-message
+            - your-message
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [contact/](https://polite-viper.cloudvent.net/contact/)
+          inputs:
             - about
             - all-articles
-            - blog
             - community
             - company
             - contact
@@ -25,21 +34,12 @@ _inputs:
             - lets-talk
             - main-pages
             - markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message
-            - marketing
             - office-address
-            - phone
-            - phone-number
             - price
             - pricing
             - privacy-and-policy
             - say-hello
-            - send-message
             - technology
-            - your-message
-        - heading: Already translated (es)
-          comment: Text already translated on
-            [contact/](https://polite-viper.cloudvent.net/contact/)
-          inputs: []
   about:
     label: About
     hidden: false
@@ -248,23 +248,23 @@ blog: ""
 community: Comunidad
 company: Compañía
 contact: Contacto
-email: ""
-email-address: ""
+email: Email
+email-address: Email Address
 feature: Característica
-form-message-placeholder: ""
-full-name: ""
+form-message-placeholder: Ingrese su mensaje
+full-name: Nombre Completo
 home: Hogar
-lets-talk: ""
+lets-talk: Hablemos.
 main-pages: Páginas principales
-markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message: ""
+markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message: ¿Tiene alguna pregunta o sugerencia? ¡No dudes en enviarnos un mensaje!
 marketing: ""
-office-address: ""
+office-address: Dirección de la oficina
 phone: ""
 phone-number: ""
 price: Precio
 pricing: Precios
 privacy-and-policy: Privacidad y política
-say-hello: ""
+say-hello: Di hola
 send-message: ""
 technology: Tecnología
 your-message: ""

@@ -9,6 +9,10 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [pricing/](https://polite-viper.cloudvent.net/pricing/)
+          inputs: []
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [pricing/](https://polite-viper.cloudvent.net/pricing/)
           inputs:
             - 1-email-campaign
             - 1-year-premium-support
@@ -42,10 +46,6 @@ _inputs:
             - technology
             - try-this-free
             - unlimited-activity-history
-        - heading: Already translated (jp)
-          comment: Text already translated on
-            [pricing/](https://polite-viper.cloudvent.net/pricing/)
-          inputs: []
   1-email-campaign:
     label: 1 Email Campaign
     hidden: false
@@ -325,35 +325,35 @@ _inputs:
     comment: "[See on
       page](https://polite-viper.cloudvent.net/pricing/#:~:text=Unlimited%20act\
       ivity%20history)"
-1-email-campaign: ""
-1-year-premium-support: ""
-20-email-campaigns: ""
-23-templates: ""
-3-filters: ""
-5-email-campaigns: ""
-90-widgets--extensions: ""
+1-email-campaign: 1 メールキャンペーン
+1-year-premium-support: 1年間のプレミアムサポート
+20-email-campaigns: 20 件の電子メール キャンペーン
+23-templates: 23 のテンプレート
+3-filters: 3つのフィルター
+5-email-campaigns: 5 メールキャンペーン
+90-widgets--extensions: 90 個のウィジェット拡張機能
 about: について
 all-articles: すべての記事
 blog: ブログ
-business: ""
+business: 仕事
 community: コミュニティ
 company: 会社
 contact: 接触
 feature: 特徴
-free: ""
+free: 無料
 home: 家
 main-pages: メインページ
-markdown:all-the-bells-and-whistles: ""
-markdown:everything-you-need-to-get-started: ""
-markdown:more-collaborative-power: ""
+markdown:all-the-bells-and-whistles: すべての付加機能。
+markdown:everything-you-need-to-get-started: 始めるために必要なものがすべて揃っています。
+markdown:more-collaborative-power: さらなる連携力。
 marketing: マーケティング
-over-800-section-blocks: ""
+over-800-section-blocks: 800以上のセクションブロック
 price: 価格
 pricing: 価格設定
 privacy-and-policy: プライバシーとポリシー
-pro: ""
-regular-update-for-1-year: ""
-support: ""
+pro: プロ
+regular-update-for-1-year: 1年間の定期更新
+support: サポート
 technology: テクノロジー
-try-this-free: ""
-unlimited-activity-history: ""
+try-this-free: 無料でお試しください
+unlimited-activity-history: 無制限のアクティビティ履歴

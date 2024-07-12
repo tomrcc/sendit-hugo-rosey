@@ -10,42 +10,42 @@ _inputs:
           comment: Text to translate on
             [feature/](https://polite-viper.cloudvent.net/feature/)
           inputs:
+            - blog
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [feature/](https://polite-viper.cloudvent.net/feature/)
+          inputs:
             - about
             - all-articles
-            - blog
+            - build-relationships-that
+            - cmo-at-clear-appeal
             - community
             - company
             - contact
+            - digital-marketer-at-time-cop
             - feature
             - free-templates-to-get-you-started
+            - head-of-marketing-at-pinnacle-mines
             - home
+            - i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before
+            - last
             - main-pages
+            - markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns
             - markdown:make-your-message-stand-out-thanks-to-the-guided-copywriting-and-design-features-triggering-a-positive-response-from-your-customers
+            - markdown:sales-analytics-and-automation-made-simple-see-every-sales-lead-in-one-place-regardless-of-where-it-came-from
             - markdown:sendit-is-the-most-complete-solution-to-create-beautiful-email-designs-manage-mails-and-send-them-out-at-the-best-price
+            - markdown:sendit-is-used-by-everyone-from-small-businesses-to-fortune-500-companies-browse-our-collection-of-email-marketing-templates-and-start-sending-beautiful-emails-in-minutes
             - markdown:sendit-will-change-the-way-you-think-about-email-and-marketing-automation
             - marketing
             - price
             - pricing
             - privacy-and-policy
             - run-the-best-campaigns
-            - simply-click-and-send
-            - technology
-        - heading: Already translated (es)
-          comment: Text already translated on
-            [feature/](https://polite-viper.cloudvent.net/feature/)
-          inputs:
-            - build-relationships-that
-            - cmo-at-clear-appeal
-            - digital-marketer-at-time-cop
-            - head-of-marketing-at-pinnacle-mines
-            - i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before
-            - last
-            - markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns
-            - markdown:sales-analytics-and-automation-made-simple-see-every-sales-lead-in-one-place-regardless-of-where-it-came-from
-            - markdown:sendit-is-used-by-everyone-from-small-businesses-to-fortune-500-companies-browse-our-collection-of-email-marketing-templates-and-start-sending-beautiful-emails-in-minutes
             - see-every-lead-in-one-place
             - sendit
             - sendit-has-taken-clear-appeal-to-the-next-level-with-its-beautiful-targetted-email-campaigns
+            - simply-click-and-send
+            - technology
             - try-this-free
             - wow-what-a-difference-sendit-has-made-my-customers-are-more-engaged-than-ever
   about:
@@ -462,7 +462,7 @@ company: Compañía
 contact: Contacto
 digital-marketer-at-time-cop: Comercializador digital en Time Cop
 feature: Característica
-free-templates-to-get-you-started: ""
+free-templates-to-get-you-started: Plantillas gratuitas para empezar
 head-of-marketing-at-pinnacle-mines: Jefe de Marketing en Pinnacle Mines
 home: Hogar
 i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before:
@@ -473,27 +473,33 @@ main-pages: Páginas principales
 markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns:
   Clientes de todo el mundo están creando campañas de marketing por correo
   electrónico innovadoras.
-markdown:make-your-message-stand-out-thanks-to-the-guided-copywriting-and-design-features-triggering-a-positive-response-from-your-customers: ""
+markdown:make-your-message-stand-out-thanks-to-the-guided-copywriting-and-design-features-triggering-a-positive-response-from-your-customers:
+  Haga que su mensaje se destaque gracias a las funciones de diseño y redacción
+  guiada, generando una respuesta positiva de sus clientes.
 markdown:sales-analytics-and-automation-made-simple-see-every-sales-lead-in-one-place-regardless-of-where-it-came-from:
   "Análisis y automatización de ventas simplificados: vea cada cliente potencial
   de ventas en un solo lugar, independientemente de su procedencia."
-markdown:sendit-is-the-most-complete-solution-to-create-beautiful-email-designs-manage-mails-and-send-them-out-at-the-best-price: ""
+markdown:sendit-is-the-most-complete-solution-to-create-beautiful-email-designs-manage-mails-and-send-them-out-at-the-best-price:
+  Sendit es la solución más completa para crear bonitos diseños de correo
+  electrónico, gestionar correos y enviarlos al mejor precio.
 markdown:sendit-is-used-by-everyone-from-small-businesses-to-fortune-500-companies-browse-our-collection-of-email-marketing-templates-and-start-sending-beautiful-emails-in-minutes:
   SendIt es utilizado por todos, desde pequeñas empresas hasta empresas Fortune
   500. Explore nuestra colección de plantillas de marketing por correo
   electrónico y comience a enviar hermosos correos electrónicos en minutos.
-markdown:sendit-will-change-the-way-you-think-about-email-and-marketing-automation: ""
-marketing: ""
+markdown:sendit-will-change-the-way-you-think-about-email-and-marketing-automation:
+  Sendit cambiará su forma de pensar sobre la automatización del marketing y el
+  correo electrónico.
+marketing: Marketing
 price: Precio
 pricing: Precios
 privacy-and-policy: Privacidad y política
-run-the-best-campaigns: ""
+run-the-best-campaigns: Ejecute las mejores campañas
 see-every-lead-in-one-place: Vea todos los clientes potenciales en un solo lugar
 sendit: Funciones de envío
 sendit-has-taken-clear-appeal-to-the-next-level-with-its-beautiful-targetted-email-campaigns:
   Sendit ha llevado Clear Appeal al siguiente nivel con sus hermosas campañas de
   correo electrónico dirigidas.
-simply-click-and-send: ""
+simply-click-and-send: Simplemente haz clic y envía
 technology: Tecnología
 try-this-free: Pruebe esto gratis
 wow-what-a-difference-sendit-has-made-my-customers-are-more-engaged-than-ever:

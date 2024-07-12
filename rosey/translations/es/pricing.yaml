@@ -10,6 +10,11 @@ _inputs:
           comment: Text to translate on
             [pricing/](https://polite-viper.cloudvent.net/pricing/)
           inputs:
+            - free
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [pricing/](https://polite-viper.cloudvent.net/pricing/)
+          inputs:
             - 1-email-campaign
             - 1-year-premium-support
             - 20-email-campaigns
@@ -25,7 +30,6 @@ _inputs:
             - company
             - contact
             - feature
-            - free
             - home
             - main-pages
             - markdown:all-the-bells-and-whistles
@@ -42,10 +46,6 @@ _inputs:
             - technology
             - try-this-free
             - unlimited-activity-history
-        - heading: Already translated (es)
-          comment: Text already translated on
-            [pricing/](https://polite-viper.cloudvent.net/pricing/)
-          inputs: []
   1-email-campaign:
     label: 1 Email Campaign
     hidden: false
@@ -325,17 +325,17 @@ _inputs:
     comment: "[See on
       page](https://polite-viper.cloudvent.net/pricing/#:~:text=Unlimited%20act\
       ivity%20history)"
-1-email-campaign: ""
-1-year-premium-support: ""
-20-email-campaigns: ""
-23-templates: ""
-3-filters: ""
-5-email-campaigns: ""
-90-widgets--extensions: ""
+1-email-campaign: 1 campaña de correo electrónico
+1-year-premium-support: Soporte premium de 1 año
+20-email-campaigns: 20 campañas de correo electrónico
+23-templates: 23 Plantillas
+3-filters: 3 filtros
+5-email-campaigns: 5 campañas de correo electrónico
+90-widgets--extensions: 90 extensiones de widgets
 about: Acerca de
 all-articles: Todos los artículos
-blog: ""
-business: ""
+blog: Blog
+business: Negocio
 community: Comunidad
 company: Compañía
 contact: Contacto
@@ -343,17 +343,17 @@ feature: Característica
 free: ""
 home: Hogar
 main-pages: Páginas principales
-markdown:all-the-bells-and-whistles: ""
-markdown:everything-you-need-to-get-started: ""
-markdown:more-collaborative-power: ""
-marketing: ""
-over-800-section-blocks: ""
+markdown:all-the-bells-and-whistles: Todas las campanas y silbatos.
+markdown:everything-you-need-to-get-started: Todo lo que necesitas para empezar.
+markdown:more-collaborative-power: Más poder colaborativo.
+marketing: Marketing
+over-800-section-blocks: Más de 800 bloques de secciones
 price: Precio
 pricing: Precios
 privacy-and-policy: Privacidad y política
-pro: ""
-regular-update-for-1-year: ""
-support: ""
+pro: Pro
+regular-update-for-1-year: Actualización periódica durante 1 año
+support: Apoyo
 technology: Tecnología
-try-this-free: ""
-unlimited-activity-history: ""
+try-this-free: Pruebe esto gratis
+unlimited-activity-history: Historial de actividad ilimitado

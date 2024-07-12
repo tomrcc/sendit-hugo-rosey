@@ -10,25 +10,25 @@ _inputs:
           comment: Text to translate on [tags/](https://polite-viper.cloudvent.net/tags/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
+            - blog
+            - marketing
+            - tags
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [tags/](https://polite-viper.cloudvent.net/tags/)
+          inputs:
             - about
             - all-articles
-            - blog
             - community
             - company
             - contact
             - feature
             - home
             - main-pages
-            - marketing
             - price
             - pricing
             - privacy-and-policy
-            - tags
             - technology
-        - heading: Already translated (es)
-          comment: Text already translated on
-            [tags/](https://polite-viper.cloudvent.net/tags/)
-          inputs: []
   /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
     label: ""
     hidden: true
