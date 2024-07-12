@@ -2,31 +2,16 @@ urlTranslation: contact/index.html
 _inputs:
   $:
     type: object
-    comment: '[See contact/](https://polite-viper.cloudvent.net/contact/)'
+    comment: "[See contact/](https://polite-viper.cloudvent.net/contact/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: >-
-            Text to translate on
+          comment: Text to translate on
             [contact/](https://polite-viper.cloudvent.net/contact/)
-          inputs:
-            - email
-            - email-address
-            - form-message-placeholder
-            - full-name
-            - lets-talk
-            - >-
-              markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message
-            - office-address
-            - phone
-            - phone-number
-            - say-hello
-            - send-message
-            - your-message
+          inputs: []
         - heading: Already translated (jp)
-          comment: >-
-            Text already translated on
+          comment: Text already translated on
             [contact/](https://polite-viper.cloudvent.net/contact/)
           inputs:
             - about
@@ -35,112 +20,122 @@ _inputs:
             - community
             - company
             - contact
+            - email
+            - email-address
             - feature
+            - form-message-placeholder
+            - full-name
             - home
+            - lets-talk
             - main-pages
+            - markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message
             - marketing
+            - office-address
+            - phone
+            - phone-number
             - price
             - pricing
             - privacy-and-policy
+            - say-hello
+            - send-message
             - technology
+            - your-message
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=About)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=All%20Articles)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=All%20Articles)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Blog)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Community)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Company)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Contact)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Contact)"
   email:
     label: Email
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Email)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Email)"
   email-address:
     label: Email Address
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Email%20Address)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Email%20Address\
+      )"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Feature)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Feature)"
   form-message-placeholder:
     label: Enter your message
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Enter%20your%20message)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Enter%20your%20\
+      message)"
   full-name:
     label: Full Name
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Full%20Name)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Full%20Name)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Home)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Home)"
   lets-talk:
     label: Let's talk.
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Let's%20talk)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Let's%20talk)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Main%20Pages)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Main%20Pages)"
   markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message:
     label: Have a question or suggestion? Feel free t...
     hidden: false
@@ -162,9 +157,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Have%20a%20question,us%20a%20message!)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Have%20a%20ques\
+      tion,us%20a%20message!)"
     context:
       open: false
       title: Untranslated Text
@@ -175,83 +170,78 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Marketing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Marketing)"
   office-address:
     label: Office Address
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Office%20Address)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Office%20Addres\
+      s)"
   phone:
     label: Phone
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Phone)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Phone)"
   phone-number:
     label: Phone number
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Phone%20number)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Phone%20number)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Price)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/contact/#:~:text=Pricing)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Privacy%20and%20Policy)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Privacy%20and%2\
+      0Policy)"
   say-hello:
     label: Say Hello
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Say%20Hello)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Say%20Hello)"
   send-message:
     label: Send message
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Send%20message)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Send%20message)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Technology)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Technology)"
   your-message:
     label: Your Message
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/contact/#:~:text=Your%20Message)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/contact/#:~:text=Your%20Message)"
 about: について
 all-articles: すべての記事
 blog: ブログ

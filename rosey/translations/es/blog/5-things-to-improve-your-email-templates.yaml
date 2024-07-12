@@ -12,31 +12,31 @@ _inputs:
           comment: Text to translate on
             [blog/5-things-to-improve-your-email-templates/](https://polite-viper.cloudvent.net/blog/5-things-to-improve-your-email-templates/)
           inputs:
-            - 5-things-to-improve-your-email-templates
-            - 7-things-you-didnt-know-about-email
-            - best-email-sending-services
             - blog
             - marketing
-            - minutes
-            - recent-blog
-            - words
         - heading: Already translated (es)
           comment: Text already translated on
             [blog/5-things-to-improve-your-email-templates/](https://polite-viper.cloudvent.net/blog/5-things-to-improve-your-email-templates/)
           inputs:
+            - 5-things-to-improve-your-email-templates
+            - 7-things-you-didnt-know-about-email
             - about
             - all-articles
+            - best-email-sending-services
             - community
             - company
             - contact
             - feature
             - home
             - main-pages
+            - minutes
             - price
             - pricing
             - privacy-and-policy
+            - recent-blog
             - static:/blog/5-things-to-improve-your-email-templates/
             - technology
+            - words
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
     hidden: false

@@ -2,29 +2,21 @@ urlTranslation: privacy/index.html
 _inputs:
   $:
     type: object
-    comment: '[See privacy/](https://polite-viper.cloudvent.net/privacy/)'
+    comment: "[See privacy/](https://polite-viper.cloudvent.net/privacy/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: >-
-            Text to translate on
+          comment: Text to translate on
+            [privacy/](https://polite-viper.cloudvent.net/privacy/)
+          inputs: []
+        - heading: Already translated (jp)
+          comment: Text already translated on
             [privacy/](https://polite-viper.cloudvent.net/privacy/)
           inputs:
             - a-slider-is-great-way-to-display-a-slideshow
-            - account-information--payments
-            - sendit-terms-and-conditions
-            - terms--condition
-            - >-
-              the-main-benefit-of-using-sliders-is-presenting-all-the-contents-in-a-visually-pleasing-manner
-            - >-
-              the-wordpress-sites-being-easy-to-use-offers-many-plugins-for-slider-you-could-imagine-slideshows-in-your-head-and-make-them-true-on-the-screen
-        - heading: Already translated (jp)
-          comment: >-
-            Text already translated on
-            [privacy/](https://polite-viper.cloudvent.net/privacy/)
-          inputs:
             - about
+            - account-information--payments
             - all-articles
             - blog
             - community
@@ -37,15 +29,19 @@ _inputs:
             - price
             - pricing
             - privacy-and-policy
+            - sendit-terms-and-conditions
             - technology
+            - terms--condition
+            - the-main-benefit-of-using-sliders-is-presenting-all-the-contents-in-a-visually-pleasing-manner
+            - the-wordpress-sites-being-easy-to-use-offers-many-plugins-for-slider-you-could-imagine-slideshows-in-your-head-and-make-them-true-on-the-screen
   a-slider-is-great-way-to-display-a-slideshow:
     label: A slider is great way to display a slidesh...
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=A%20slider%20is,display%20a%20slideshow)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=A%20slider%20is\
+      ,display%20a%20slideshow)"
     context:
       open: false
       title: Untranslated Text
@@ -56,150 +52,147 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=About)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=About)"
   account-information--payments:
     label: Account Information  Payments
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Account%20Information%20%20Payments)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Account%20Infor\
+      mation%20%20Payments)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=All%20Articles)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=All%20Articles)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Blog)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Community)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Company)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Contact)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Contact)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Feature)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Home)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Main%20Pages)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Marketing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Marketing)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Price)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Pricing)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Privacy%20and%20Policy)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Privacy%20and%2\
+      0Policy)"
   sendit-terms-and-conditions:
     label: SendIt Terms And Conditions
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=SendIt%20Terms%20And%20Conditions)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=SendIt%20Terms%\
+      20And%20Conditions)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Technology)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Technology)"
   terms--condition:
     label: Terms  Condition
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Terms%20%20Condition)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Terms%20%20Cond\
+      ition)"
   the-main-benefit-of-using-sliders-is-presenting-all-the-contents-in-a-visually-pleasing-manner:
     label: The main benefit of using sliders is prese...
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=The%20main%20benefit,visually%20pleasing%20manner)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=The%20main%20be\
+      nefit,visually%20pleasing%20manner)"
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: >-
-        The main benefit of using sliders is presenting all the contents in a
+      content: The main benefit of using sliders is presenting all the contents in a
         visually pleasing manner.
   the-wordpress-sites-being-easy-to-use-offers-many-plugins-for-slider-you-could-imagine-slideshows-in-your-head-and-make-them-true-on-the-screen:
     label: The WordPress sites being easy to use, off...
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=The%20WordPress%20sites,on%20the%20screen)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/privacy/#:~:text=The%20WordPress\
+      %20sites,on%20the%20screen)"
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: >-
-        The WordPress sites being easy to use, offers many plugins for slider.
+      content: The WordPress sites being easy to use, offers many plugins for slider.
         You could imagine slideshows in your head and make them true on the
         screen.
 a-slider-is-great-way-to-display-a-slideshow: スライダーはスライドショーを表示するのに最適な方法です
@@ -221,6 +214,4 @@ sendit-terms-and-conditions: SendIt 利用規約
 technology: テクノロジー
 terms--condition: 利用規約
 the-main-benefit-of-using-sliders-is-presenting-all-the-contents-in-a-visually-pleasing-manner: スライダーを使用する主な利点は、事前に設定できることです。
-the-wordpress-sites-being-easy-to-use-offers-many-plugins-for-slider-you-could-imagine-slideshows-in-your-head-and-make-them-true-on-the-screen: >-
-  WordPress
-  サイトは使いやすく、スライダー用のプラグインが多数提供されています。頭の中でスライドショーを想像し、それを画面上で実現することができます。
+the-wordpress-sites-being-easy-to-use-offers-many-plugins-for-slider-you-could-imagine-slideshows-in-your-head-and-make-them-true-on-the-screen: WordPress サイトは使いやすく、スライダー用のプラグインが多数提供されています。頭の中でスライドショーを想像し、それを画面上で実現することができます。

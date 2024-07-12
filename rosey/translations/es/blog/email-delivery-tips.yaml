@@ -12,32 +12,32 @@ _inputs:
           comment: Text to translate on
             [blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-delivery-tips/)
           inputs:
-            - 5-things-to-improve-your-email-templates
-            - 7-things-you-didnt-know-about-email
-            - best-email-sending-services
             - blog
-            - email-delivery-tips
             - marketing
-            - minutes
-            - recent-blog
-            - words
         - heading: Already translated (es)
           comment: Text already translated on
             [blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-delivery-tips/)
           inputs:
+            - 5-things-to-improve-your-email-templates
+            - 7-things-you-didnt-know-about-email
             - about
             - all-articles
+            - best-email-sending-services
             - community
             - company
             - contact
+            - email-delivery-tips
             - feature
             - home
             - main-pages
+            - minutes
             - price
             - pricing
             - privacy-and-policy
+            - recent-blog
             - static:/blog/email-delivery-tips/
             - technology
+            - words
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
     hidden: false

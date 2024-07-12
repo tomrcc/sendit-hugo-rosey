@@ -13,7 +13,6 @@ _inputs:
             [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
-            - best-email-sending-services
             - blog
             - marketing
         - heading: Already translated (es)
@@ -22,6 +21,7 @@ _inputs:
           inputs:
             - about
             - all-articles
+            - best-email-sending-services
             - community
             - company
             - contact
