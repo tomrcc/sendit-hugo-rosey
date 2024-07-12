@@ -1,1 +1,102 @@
-{}
+{
+  "es": {
+    "current": true,
+    "baseTotal": 0,
+    "total": 0,
+    "states": {
+      "missing": 0,
+      "outdated": 0,
+      "unused": 0,
+      "current": 0
+    },
+    "keys": {}
+  },
+  "es.urls": {
+    "current": false,
+    "baseTotal": 0,
+    "total": 25,
+    "states": {
+      "unused": 25,
+      "outdated": 0,
+      "current": 0,
+      "missing": 0
+    },
+    "keys": {
+      "blog/best-email-sending-services/index.html": "unused",
+      "blog/5-things-to-improve-your-email-templates/index.html": "unused",
+      "blog/what-are-the-best-email-clients/index.html": "unused",
+      "categories/email/index.html": "unused",
+      "about/index.html": "unused",
+      "blog/email-delivery-tips/index.html": "unused",
+      "categories/index.html": "unused",
+      "contact/index.html": "unused",
+      "privacy/index.html": "unused",
+      "404.html": "unused",
+      "index.html": "unused",
+      "tags/page/1/index.html": "unused",
+      "blog/how-to-host-better-email-marketing-campaigns/index.html": "unused",
+      "blog/page/1/index.html": "unused",
+      "categories/marketing/index.html": "unused",
+      "categories/marketing/page/1/index.html": "unused",
+      "categories/email/page/1/index.html": "unused",
+      "categories/technology/index.html": "unused",
+      "categories/page/1/index.html": "unused",
+      "feature/index.html": "unused",
+      "pricing/index.html": "unused",
+      "tags/index.html": "unused",
+      "categories/technology/page/1/index.html": "unused",
+      "blog/index.html": "unused",
+      "blog/7-things-you-didnt-know-about-email/index.html": "unused"
+    }
+  },
+  "jp": {
+    "current": true,
+    "baseTotal": 0,
+    "total": 0,
+    "states": {
+      "outdated": 0,
+      "current": 0,
+      "unused": 0,
+      "missing": 0
+    },
+    "keys": {}
+  },
+  "jp.urls": {
+    "current": false,
+    "baseTotal": 0,
+    "total": 25,
+    "states": {
+      "outdated": 0,
+      "current": 0,
+      "missing": 0,
+      "unused": 25
+    },
+    "keys": {
+      "feature/index.html": "unused",
+      "about/index.html": "unused",
+      "categories/marketing/index.html": "unused",
+      "blog/5-things-to-improve-your-email-templates/index.html": "unused",
+      "categories/email/index.html": "unused",
+      "categories/email/page/1/index.html": "unused",
+      "categories/technology/index.html": "unused",
+      "pricing/index.html": "unused",
+      "blog/email-delivery-tips/index.html": "unused",
+      "blog/how-to-host-better-email-marketing-campaigns/index.html": "unused",
+      "blog/page/1/index.html": "unused",
+      "categories/marketing/page/1/index.html": "unused",
+      "contact/index.html": "unused",
+      "blog/what-are-the-best-email-clients/index.html": "unused",
+      "privacy/index.html": "unused",
+      "404.html": "unused",
+      "categories/page/1/index.html": "unused",
+      "blog/7-things-you-didnt-know-about-email/index.html": "unused",
+      "index.html": "unused",
+      "tags/page/1/index.html": "unused",
+      "tags/index.html": "unused",
+      "blog/index.html": "unused",
+      "blog/best-email-sending-services/index.html": "unused",
+      "categories/index.html": "unused",
+      "categories/technology/page/1/index.html": "unused"
+    }
+  }
+}
