@@ -5,12 +5,12 @@
         <div class="contact-form-Information">
           <div class="address">
             {{ with .address }}
-            <h3>{{.heading}}</h3>
+            <h3 data-rosey="{{ .heading | anchorize }}">{{.heading}}</h3>
             <p>{{.address}}</p>
             {{ end }}
             <div class="item mb-4">
               {{ with .phone }}
-              <h3>{{.heading}}</h3>
+              <h3 data-rosey="{{ .heading | anchorize }}">{{.heading}}</h3>
               <a href="tel:{{.cell}}"
                 >{{.cell}}
                 <span>
@@ -25,9 +25,9 @@
             </div>
             <div class="item">
               {{ with .email }}
-              <h3>{{.heading}}</h3>
-              <a href="mailto:{{.email}}"
-                >{{.email}}
+              <h3 data-rosey="{{ .heading | anchorize }}">{{.heading}}</h3>
+              <a href="mailto:{{.email}}">
+                {{.email}}
                 <span>
                   <img
                     src="/images/contact/directbox-send.svg"
@@ -45,10 +45,10 @@
         <div class="contact-form">
           {{ with .form }}
           <form method="post">
-            <h3>{{.heading}}</h3>
+            <h3 data-rosey="{{ .heading | anchorize }}">{{.heading}}</h3>
             {{ with .fullName }}
             <div class="col-md-12">
-              <label for="Name" class="label">{{.heading}}</label>
+              <label for="Name" class="label" data-rosey="{{ .heading | anchorize }}">{{.heading}}</label>
               <input
                 type="text"
                 class="form-control"
@@ -60,7 +60,7 @@
             </div>
             {{ end }} {{ with .phoneNumber }}
             <div class="col-md-12">
-              <label for="Name" class="label">{{.heading}}</label>
+              <label for="Name" class="label" data-rosey="{{ .heading | anchorize }}">{{.heading}}</label>
               <input
                 type="tel"
                 class="form-control"
@@ -72,7 +72,7 @@
             </div>
             {{ end }} {{ with .email }}
             <div class="col-md-12">
-              <label for="email" class="label">{{.heading}}</label>
+              <label for="email" class="label" data-rosey="{{ .heading | anchorize }}">{{.heading}}</label>
               <input
                 type="email"
                 class="form-control mb-6"
@@ -84,12 +84,13 @@
             </div>
             {{ end }} {{ with .message }}
             <div class="col-12">
-              <label for="email" class="label">{{.heading}}</label>
+              <label for="email" class="label" data-rosey="{{ .heading | anchorize }}">{{.heading}}</label>
               <textarea
                 class="form-control mb-4"
                 id="floatingTextarea2"
                 name="message"
                 placeholder="{{.placeHolder}}"
+                data-rosey-attrs-explicit='{"placeholder":"form-message-placeholder"}'
                 rows="8"
                 spellcheck="false"
               ></textarea>
@@ -99,7 +100,7 @@
             {{ with .submitBtn }}
             <div class="col-12">
               <button type="submit" class="btn btn-primary btn-lg mt-7">
-                <span class="position-relative">{{.text}}</span>
+                <span class="position-relative" data-rosey="{{ .text | anchorize }}">{{.text}}</span>
               </button>
             </div>
             {{ end }}

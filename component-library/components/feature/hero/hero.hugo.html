@@ -3,11 +3,11 @@
     <div class="row align-items-center">
       <div class="col-lg-6">
         <div class="feature-hero-content">
-          <h1 class="">{{.title}}</h1>
-          <p>{{.description | markdownify}}</p>
+          <h1 class="" data-rosey="{{ .title | anchorize }}">{{.title}}</h1>
+          <p data-rosey-ns="markdown" data-rosey="{{ .description | anchorize }}">{{.description | markdownify}}</p>
           <div class="d-block mb-6">
             {{ with .btn }}
-            <a href="{{.link}}" class="btn btn-primary btn-lg"> {{.text}} </a>
+            <a href="{{.link}}" class="btn btn-primary btn-lg" data-rosey="{{ .text | anchorize }}"> {{.text}} </a>
             {{ end }}
           </div>
         </div>

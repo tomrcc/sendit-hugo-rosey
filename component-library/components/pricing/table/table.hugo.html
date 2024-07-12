@@ -9,8 +9,8 @@
           {{else}}
             "card pricing-item"
           {{ end }}>
-            <h5 class="card-title">{{.tier}}</h5>
-            <p class="card-text">
+            <h5 class="card-title" data-rosey="{{ .tier | anchorize }}">{{.tier}}</h5>
+            <p class="card-text" data-rosey-ns="markdown" data-rosey="{{ .description | anchorize }}">
               {{.description | markdownify}}
             </p>
             {{ if .hasDiscount }}
@@ -38,12 +38,12 @@
               <ul class="list-unstyled">
                 {{ range .feature }}
                   {{ if .isActive }}
-                  <li>
+                  <li data-rosey="{{ .item | anchorize }}">
                     <i class="ph-check"></i>
                     {{.item}}
                   </li>
                   {{else}}
-                  <li class="deactive">
+                  <li class="deactive" data-rosey="{{ .item | anchorize }}">
                     <i class="ph-check deactive"></i>
                     {{.item}}
                   </li>
@@ -52,7 +52,7 @@
               </ul>
               <div class="link">
                 {{ with .btn }}
-                <a href="{{.link}}" class="btn btn-lg btn-white">
+                <a href="{{.link}}" class="btn btn-lg btn-white" data-rosey="{{ .text | anchorize }}">
                   {{.text}}
                 </a>
                 {{ end }}

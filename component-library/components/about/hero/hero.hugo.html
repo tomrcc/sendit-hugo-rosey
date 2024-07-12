@@ -3,11 +3,11 @@
     <div class="row">
       <div class="col-xl-5 col-lg-10 mx-auto">
         <div class="about-hero-two-content position-relative">
-          <h2>{{.title}}</h2>
-          <p class="mb-20 w-xxl-80">{{.description | markdownify}}</p>
+          <h2 data-rosey="{{ .title | anchorize }}">{{.title}}</h2>
+          <p class="mb-20 w-xxl-80" data-rosey-ns="markdown" data-rosey="{{ .description | anchorize }}">{{.description | markdownify}}</p>
           <div class="">
             {{with .link}}
-            <a href="{{.url}}" class="btn btn-primary btn-lg"> {{.text}} </a>
+            <a href="{{.url}}" class="btn btn-primary btn-lg" data-rosey="{{ .text | anchorize }}"> {{.text}} </a>
             {{end}}
           </div>
         </div>
