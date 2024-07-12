@@ -43,13 +43,13 @@
 		"original": "tags/page/1/index.html",
 		"value": "tags/page/1/index.html"
 	},
-	"categories/marketing/index.html": {
-		"original": "categories/marketing/index.html",
-		"value": "categories/marketing/index.html"
-	},
 	"categories/email/index.html": {
 		"original": "categories/email/index.html",
 		"value": "categories/email/index.html"
+	},
+	"categories/marketing/index.html": {
+		"original": "categories/marketing/index.html",
+		"value": "categories/marketing/index.html"
 	},
 	"categories/technology/index.html": {
 		"original": "categories/technology/index.html",
@@ -67,13 +67,13 @@
 		"original": "categories/marketing/page/1/index.html",
 		"value": "categories/marketing/page/1/index.html"
 	},
-	"blog/5-things-to-improve-your-email-templates/index.html": {
-		"original": "blog/5-things-to-improve-your-email-templates/index.html",
-		"value": "blog/5-things-to-improve-your-email-templates/index.html"
-	},
 	"categories/email/page/1/index.html": {
 		"original": "categories/email/page/1/index.html",
 		"value": "categories/email/page/1/index.html"
+	},
+	"blog/5-things-to-improve-your-email-templates/index.html": {
+		"original": "blog/5-things-to-improve-your-email-templates/index.html",
+		"value": "blog/5-things-to-improve-your-email-templates/index.html"
 	},
 	"blog/7-things-you-didnt-know-about-email/index.html": {
 		"original": "blog/7-things-you-didnt-know-about-email/index.html",

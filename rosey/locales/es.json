@@ -1,11 +1,11 @@
 {
 	"about": {
 		"original": "About",
-		"value": "About"
+		"value": "Acerca de"
 	},
 	"all-articles": {
 		"original": "All Articles",
-		"value": "All Articles"
+		"value": "Todos los artículos"
 	},
 	"blog": {
 		"original": "Blog",
@@ -13,19 +13,19 @@
 	},
 	"community": {
 		"original": "Community",
-		"value": "Community"
+		"value": "Comunidad"
 	},
 	"company": {
 		"original": "Company",
-		"value": "Company"
+		"value": "Compañía"
 	},
 	"contact": {
 		"original": "Contact",
-		"value": "Contact"
+		"value": "Contacto"
 	},
 	"feature": {
 		"original": "Feature",
-		"value": "Feature"
+		"value": "Característica"
 	},
 	"go-home": {
 		"original": "Go home",
@@ -33,11 +33,11 @@
 	},
 	"home": {
 		"original": "Home",
-		"value": "Home"
+		"value": "Hogar"
 	},
 	"main-pages": {
 		"original": "Main Pages",
-		"value": "Main Pages"
+		"value": "Páginas principales"
 	},
 	"marketing": {
 		"original": "Marketing",
@@ -45,19 +45,19 @@
 	},
 	"price": {
 		"original": "Price",
-		"value": "Price"
+		"value": "Precio"
 	},
 	"pricing": {
 		"original": "Pricing",
-		"value": "Pricing"
+		"value": "Precios"
 	},
 	"privacy-and-policy": {
 		"original": "Privacy and Policy",
-		"value": "Privacy and Policy"
+		"value": "Privacidad y política"
 	},
 	"technology": {
 		"original": "Technology",
-		"value": "Technology"
+		"value": "Tecnología"
 	},
 	"this-page-is-missing": {
 		"original": "This page is missing.",

@@ -332,28 +332,28 @@ _inputs:
 3-filters: ""
 5-email-campaigns: ""
 90-widgets--extensions: ""
-about: ""
-all-articles: ""
+about: Acerca de
+all-articles: Todos los artículos
 blog: ""
 business: ""
-community: ""
-company: ""
-contact: ""
-feature: ""
+community: Comunidad
+company: Compañía
+contact: Contacto
+feature: Característica
 free: ""
-home: ""
-main-pages: ""
+home: Hogar
+main-pages: Páginas principales
 markdown:all-the-bells-and-whistles: ""
 markdown:everything-you-need-to-get-started: ""
 markdown:more-collaborative-power: ""
 marketing: ""
 over-800-section-blocks: ""
-price: ""
-pricing: ""
-privacy-and-policy: ""
+price: Precio
+pricing: Precios
+privacy-and-policy: Privacidad y política
 pro: ""
 regular-update-for-1-year: ""
 support: ""
-technology: ""
+technology: Tecnología
 try-this-free: ""
 unlimited-activity-history: ""

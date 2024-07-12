@@ -242,29 +242,29 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://polite-viper.cloudvent.net/contact/#:~:text=Your%20Message)"
-about: ""
-all-articles: ""
+about: Acerca de
+all-articles: Todos los artículos
 blog: ""
-community: ""
-company: ""
-contact: ""
+community: Comunidad
+company: Compañía
+contact: Contacto
 email: ""
 email-address: ""
-feature: ""
+feature: Característica
 form-message-placeholder: ""
 full-name: ""
-home: ""
+home: Hogar
 lets-talk: ""
-main-pages: ""
+main-pages: Páginas principales
 markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message: ""
 marketing: ""
 office-address: ""
 phone: ""
 phone-number: ""
-price: ""
-pricing: ""
-privacy-and-policy: ""
+price: Precio
+pricing: Precios
+privacy-and-policy: Privacidad y política
 say-hello: ""
 send-message: ""
-technology: ""
+technology: Tecnología
 your-message: ""
