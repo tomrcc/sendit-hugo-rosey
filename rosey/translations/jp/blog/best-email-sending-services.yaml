@@ -2,31 +2,25 @@ urlTranslation: blog/best-email-sending-services/index.html
 _inputs:
   $:
     type: object
-    comment: >-
-      [See
-      blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blog/best-email-sending-services/)
+    comment: "[See
+      blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blo\
+      g/best-email-sending-services/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: >-
-            Text to translate on
+          comment: Text to translate on
+            [blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blog/best-email-sending-services/)
+          inputs: []
+        - heading: Already translated (jp)
+          comment: Text already translated on
             [blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blog/best-email-sending-services/)
           inputs:
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
-            - best-email-sending-services
-            - minutes
-            - recent-blog
-            - static:/blog/best-email-sending-services/
-            - words
-        - heading: Already translated (jp)
-          comment: >-
-            Text already translated on
-            [blog/best-email-sending-services/](https://polite-viper.cloudvent.net/blog/best-email-sending-services/)
-          inputs:
             - about
             - all-articles
+            - best-email-sending-services
             - blog
             - community
             - company
@@ -35,154 +29,158 @@ _inputs:
             - home
             - main-pages
             - marketing
+            - minutes
             - price
             - pricing
             - privacy-and-policy
+            - recent-blog
+            - static:/blog/best-email-sending-services/
             - technology
+            - words
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=5%20things%20to,your%20email%20templates)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=5%20things%20to,your%20email%20templates)"
   7-things-you-didnt-know-about-email:
     label: 7 things you didn't know about email
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=7%20things%20you,know%20about%20email)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=7%20things%20you,know%20about%20email)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=About)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=All%20Articles)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=All%20Articles)"
   best-email-sending-services:
     label: Best email sending services
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Best%20email%20sending%20services)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Best%20email%20sending%20services)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Blog)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Community)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Company)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Contact)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Contact)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Feature)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Home)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Main%20Pages)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Marketing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Marketing)"
   minutes:
     label: minutes
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=minutes)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=minutes)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Price)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Pricing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Privacy%20and%20Policy)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Privacy%20and%20Policy)"
   recent-blog:
     label: Recent Blog
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Recent%20Blog)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Recent%20Blog)"
   static:/blog/best-email-sending-services/:
     label: When you send an email campaign, you expec...
     hidden: false
@@ -204,9 +202,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=When%20you%20send,a%20timely%20manner)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=When%20you%20send,a%20timely%20manner)"
     context:
       open: false
       title: Untranslated Text
@@ -294,17 +292,17 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=Technology)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=Technology)"
   words:
     label: words
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services/#:~:text=words)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/best-email-sending-services\
+      /#:~:text=words)"
 5-things-to-improve-your-email-templates: メールテンプレートを改善するための 5 つのこと
 7-things-you-didnt-know-about-email: 電子メールについてあなたが知らなかった 7 つのこと
 about: について

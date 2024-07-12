@@ -23,13 +23,13 @@
 		"original": "feature/index.html",
 		"value": "feature/index.html"
 	},
-	"pricing/index.html": {
-		"original": "pricing/index.html",
-		"value": "pricing/index.html"
-	},
 	"index.html": {
 		"original": "index.html",
 		"value": "index.html"
+	},
+	"pricing/index.html": {
+		"original": "pricing/index.html",
+		"value": "pricing/index.html"
 	},
 	"privacy/index.html": {
 		"original": "privacy/index.html",
@@ -63,13 +63,13 @@
 		"original": "categories/page/1/index.html",
 		"value": "categories/page/1/index.html"
 	},
-	"categories/marketing/page/1/index.html": {
-		"original": "categories/marketing/page/1/index.html",
-		"value": "categories/marketing/page/1/index.html"
-	},
 	"categories/email/page/1/index.html": {
 		"original": "categories/email/page/1/index.html",
 		"value": "categories/email/page/1/index.html"
+	},
+	"categories/marketing/page/1/index.html": {
+		"original": "categories/marketing/page/1/index.html",
+		"value": "categories/marketing/page/1/index.html"
 	},
 	"blog/5-things-to-improve-your-email-templates/index.html": {
 		"original": "blog/5-things-to-improve-your-email-templates/index.html",
@@ -87,6 +87,10 @@
 		"original": "blog/email-delivery-tips/index.html",
 		"value": "blog/email-delivery-tips/index.html"
 	},
+	"blog/how-to-host-better-email-marketing-campaigns/index.html": {
+		"original": "blog/how-to-host-better-email-marketing-campaigns/index.html",
+		"value": "blog/how-to-host-better-email-marketing-campaigns/index.html"
+	},
 	"blog/what-are-the-best-email-clients/index.html": {
 		"original": "blog/what-are-the-best-email-clients/index.html",
 		"value": "blog/what-are-the-best-email-clients/index.html"
@@ -94,9 +98,5 @@
 	"blog/page/1/index.html": {
 		"original": "blog/page/1/index.html",
 		"value": "blog/page/1/index.html"
-	},
-	"blog/how-to-host-better-email-marketing-campaigns/index.html": {
-		"original": "blog/how-to-host-better-email-marketing-campaigns/index.html",
-		"value": "blog/how-to-host-better-email-marketing-campaigns/index.html"
 	}
 }

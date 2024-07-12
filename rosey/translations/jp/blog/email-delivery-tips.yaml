@@ -2,32 +2,26 @@ urlTranslation: blog/email-delivery-tips/index.html
 _inputs:
   $:
     type: object
-    comment: >-
-      [See
-      blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-delivery-tips/)
+    comment: "[See
+      blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-\
+      delivery-tips/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: >-
-            Text to translate on
+          comment: Text to translate on
+            [blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-delivery-tips/)
+          inputs:
+            - email-delivery-tips
+        - heading: Already translated (jp)
+          comment: Text already translated on
             [blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-delivery-tips/)
           inputs:
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
-            - best-email-sending-services
-            - email-delivery-tips
-            - minutes
-            - recent-blog
-            - static:/blog/email-delivery-tips/
-            - words
-        - heading: Already translated (jp)
-          comment: >-
-            Text already translated on
-            [blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-delivery-tips/)
-          inputs:
             - about
             - all-articles
+            - best-email-sending-services
             - blog
             - community
             - company
@@ -36,162 +30,166 @@ _inputs:
             - home
             - main-pages
             - marketing
+            - minutes
             - price
             - pricing
             - privacy-and-policy
+            - recent-blog
+            - static:/blog/email-delivery-tips/
             - technology
+            - words
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=5%20things%20to,your%20email%20templates)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=5%20things%20to,your%20email%20templates)"
   7-things-you-didnt-know-about-email:
     label: 7 things you didn't know about email
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=7%20things%20you,know%20about%20email)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=7%20things%20you,know%20about%20email)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=About)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=All%20Articles)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=All%20Articles)"
   best-email-sending-services:
     label: Best email sending services
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Best%20email%20sending%20services)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Best%20email%20sending%20services)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Blog)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Community)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Company)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Contact)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Contact)"
   email-delivery-tips:
     label: Email delivery tips
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Email%20delivery%20tips)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Email%20delivery%20tips)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Feature)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Home)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Main%20Pages)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Marketing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Marketing)"
   minutes:
     label: minutes
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=minutes)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=minutes)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Price)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Pricing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Privacy%20and%20Policy)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Privacy%20and%20Policy)"
   recent-blog:
     label: Recent Blog
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Recent%20Blog)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Recent%20Blog)"
   static:/blog/email-delivery-tips/:
     label: When you send an email campaign, you expec...
     hidden: false
@@ -213,9 +211,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=When%20you%20send,a%20timely%20manner)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=When%20you%20send,a%20timely%20manner)"
     context:
       open: false
       title: Untranslated Text
@@ -303,17 +301,17 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=Technology)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=Technology)"
   words:
     label: words
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:text=words)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
+      t=words)"
 5-things-to-improve-your-email-templates: メールテンプレートを改善するための 5 つのこと
 7-things-you-didnt-know-about-email: 電子メールについてあなたが知らなかった 7 つのこと
 about: について
@@ -323,7 +321,7 @@ blog: ブログ
 community: コミュニティ
 company: 会社
 contact: 接触
-email-delivery-tips: ''
+email-delivery-tips: ""
 feature: 特徴
 home: 家
 main-pages: メインページ
