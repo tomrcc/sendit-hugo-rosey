@@ -2,15 +2,14 @@ urlTranslation: blog/what-are-the-best-email-clients/index.html
 _inputs:
   $:
     type: object
-    comment: >-
-      [See
-      blog/what-are-the-best-email-clients/](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/)
+    comment: "[See
+      blog/what-are-the-best-email-clients/](https://polite-viper.cloudvent.net\
+      /blog/what-are-the-best-email-clients/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
-          comment: >-
-            Text to translate on
+          comment: Text to translate on
             [blog/what-are-the-best-email-clients/](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/)
           inputs:
             - 5-things-to-improve-your-email-templates
@@ -20,12 +19,10 @@ _inputs:
             - marketing
             - minutes
             - recent-blog
-            - static:/blog/what-are-the-best-email-clients/
             - what-are-the-best-email-clients
             - words
         - heading: Already translated (es)
-          comment: >-
-            Text already translated on
+          comment: Text already translated on
             [blog/what-are-the-best-email-clients/](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/)
           inputs:
             - about
@@ -39,151 +36,152 @@ _inputs:
             - price
             - pricing
             - privacy-and-policy
+            - static:/blog/what-are-the-best-email-clients/
             - technology
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=5%20things%20to,your%20email%20templates)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=5%20things%20to,your%20email%20templates)"
   7-things-you-didnt-know-about-email:
     label: 7 things you didn't know about email
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=7%20things%20you,know%20about%20email)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=7%20things%20you,know%20about%20email)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=About)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=All%20Articles)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=All%20Articles)"
   best-email-sending-services:
     label: Best email sending services
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Best%20email%20sending%20services)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Best%20email%20sending%20services)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Blog)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Community)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Company)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Contact)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Contact)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Feature)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Home)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Main%20Pages)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Marketing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Marketing)"
   minutes:
     label: minutes
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=minutes)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=minutes)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Price)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Pricing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Privacy%20and%20Policy)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Privacy%20and%20Policy)"
   recent-blog:
     label: Recent Blog
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Recent%20Blog)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Recent%20Blog)"
   static:/blog/what-are-the-best-email-clients/:
     label: When you send an email campaign, you expec...
     hidden: false
@@ -205,9 +203,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=When%20you%20send,a%20timely%20manner)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=When%20you%20send,a%20timely%20manner)"
     context:
       open: false
       title: Untranslated Text
@@ -295,43 +293,43 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=Technology)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=Technology)"
   what-are-the-best-email-clients:
     label: What are the best email clients?
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=What%20are%20the%20best%20email%20clients)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=What%20are%20the%20best%20email%20clients)"
   words:
     label: words
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/#:~:text=words)
-5-things-to-improve-your-email-templates: ''
-7-things-you-didnt-know-about-email: ''
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-cli\
+      ents/#:~:text=words)"
+5-things-to-improve-your-email-templates: 5 cosas para mejorar tus plantillas de correo electrónico
+7-things-you-didnt-know-about-email: 7 cosas que no sabías sobre el correo electrónico
 about: Acerca de
 all-articles: Todos los artículos
-best-email-sending-services: ''
-blog: ''
+best-email-sending-services: Los mejores servicios de envío de correo electrónico
+blog: ""
 community: Comunidad
 company: Compañía
 contact: Contacto
 feature: Característica
 home: Hogar
 main-pages: Páginas principales
-marketing: ''
-minutes: ''
+marketing: ""
+minutes: minutos
 price: Precio
 pricing: Precios
 privacy-and-policy: Privacidad y política
-recent-blog: ''
+recent-blog: Blog reciente
 static:/blog/what-are-the-best-email-clients/: >-
   Cuando envías una campaña de correo electrónico, esperas que llegue a tus
   lectores, ¿verdad? Pero, ¿qué pasa si los correos electrónicos van
@@ -418,5 +416,5 @@ static:/blog/what-are-the-best-email-clients/: >-
   seguimiento de los clientes y de que reciban sus correos electrónicos de
   manera oportuna.
 technology: Tecnología
-what-are-the-best-email-clients: ''
-words: ''
+what-are-the-best-email-clients: ¿Cuáles son los mejores clientes de correo electrónico?
+words: palabras

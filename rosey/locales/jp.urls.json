@@ -7,13 +7,17 @@
 		"original": "about/index.html",
 		"value": "about/index.html"
 	},
+	"categories/index.html": {
+		"original": "categories/index.html",
+		"value": "categories/index.html"
+	},
 	"blog/index.html": {
 		"original": "blog/index.html",
 		"value": "blog/index.html"
 	},
-	"categories/index.html": {
-		"original": "categories/index.html",
-		"value": "categories/index.html"
+	"index.html": {
+		"original": "index.html",
+		"value": "index.html"
 	},
 	"feature/index.html": {
 		"original": "feature/index.html",
@@ -22,10 +26,6 @@
 	"contact/index.html": {
 		"original": "contact/index.html",
 		"value": "contact/index.html"
-	},
-	"index.html": {
-		"original": "index.html",
-		"value": "index.html"
 	},
 	"pricing/index.html": {
 		"original": "pricing/index.html",
@@ -39,13 +39,13 @@
 		"original": "tags/index.html",
 		"value": "tags/index.html"
 	},
-	"tags/page/1/index.html": {
-		"original": "tags/page/1/index.html",
-		"value": "tags/page/1/index.html"
-	},
 	"categories/email/index.html": {
 		"original": "categories/email/index.html",
 		"value": "categories/email/index.html"
+	},
+	"tags/page/1/index.html": {
+		"original": "tags/page/1/index.html",
+		"value": "tags/page/1/index.html"
 	},
 	"categories/marketing/index.html": {
 		"original": "categories/marketing/index.html",
@@ -71,10 +71,6 @@
 		"original": "categories/email/page/1/index.html",
 		"value": "categories/email/page/1/index.html"
 	},
-	"blog/5-things-to-improve-your-email-templates/index.html": {
-		"original": "blog/5-things-to-improve-your-email-templates/index.html",
-		"value": "blog/5-things-to-improve-your-email-templates/index.html"
-	},
 	"blog/7-things-you-didnt-know-about-email/index.html": {
 		"original": "blog/7-things-you-didnt-know-about-email/index.html",
 		"value": "blog/7-things-you-didnt-know-about-email/index.html"
@@ -87,6 +83,14 @@
 		"original": "blog/email-delivery-tips/index.html",
 		"value": "blog/email-delivery-tips/index.html"
 	},
+	"blog/5-things-to-improve-your-email-templates/index.html": {
+		"original": "blog/5-things-to-improve-your-email-templates/index.html",
+		"value": "blog/5-things-to-improve-your-email-templates/index.html"
+	},
+	"blog/what-are-the-best-email-clients/index.html": {
+		"original": "blog/what-are-the-best-email-clients/index.html",
+		"value": "blog/what-are-the-best-email-clients/index.html"
+	},
 	"blog/how-to-host-better-email-marketing-campaigns/index.html": {
 		"original": "blog/how-to-host-better-email-marketing-campaigns/index.html",
 		"value": "blog/how-to-host-better-email-marketing-campaigns/index.html"
@@ -94,9 +98,5 @@
 	"blog/page/1/index.html": {
 		"original": "blog/page/1/index.html",
 		"value": "blog/page/1/index.html"
-	},
-	"blog/what-are-the-best-email-clients/index.html": {
-		"original": "blog/what-are-the-best-email-clients/index.html",
-		"value": "blog/what-are-the-best-email-clients/index.html"
 	}
 }

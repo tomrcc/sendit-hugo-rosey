@@ -2,7 +2,7 @@ urlTranslation: 404.html
 _inputs:
   $:
     type: object
-    comment: '[See 404](https://polite-viper.cloudvent.net/404)'
+    comment: "[See 404](https://polite-viper.cloudvent.net/404)"
     options:
       place_groups_below: false
       groups:
@@ -10,12 +10,9 @@ _inputs:
           comment: Text to translate on [404](https://polite-viper.cloudvent.net/404)
           inputs:
             - blog
-            - go-home
             - marketing
-            - this-page-is-missing
         - heading: Already translated (es)
-          comment: >-
-            Text already translated on
+          comment: Text already translated on
             [404](https://polite-viper.cloudvent.net/404)
           inputs:
             - about
@@ -24,117 +21,119 @@ _inputs:
             - company
             - contact
             - feature
+            - go-home
             - home
             - main-pages
             - price
             - pricing
             - privacy-and-policy
             - technology
+            - this-page-is-missing
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=About)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/404#:~:text=All%20Articles)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/404#:~:text=All%20Articles)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Blog)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Community)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Company)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Contact)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Contact)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Feature)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Feature)"
   go-home:
     label: Go home
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Go%20home)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Go%20home)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Home)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Main%20Pages)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/404#:~:text=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Marketing)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Marketing)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Price)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Pricing)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/404#:~:text=Privacy%20and%20Policy)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/404#:~:text=Privacy%20and%20Poli\
+      cy)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/404#:~:text=Technology)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/404#:~:text=Technology)"
   this-page-is-missing:
     label: This page is missing.
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/404#:~:text=This%20page%20is%20missing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/404#:~:text=This%20page%20is%20m\
+      issing)"
 about: Acerca de
 all-articles: Todos los artículos
-blog: ''
+blog: ""
 community: Comunidad
 company: Compañía
 contact: Contacto
@@ -142,7 +141,7 @@ feature: Característica
 go-home: Vete a casa
 home: Hogar
 main-pages: Páginas principales
-marketing: ''
+marketing: ""
 price: Precio
 pricing: Precios
 privacy-and-policy: Privacidad y política

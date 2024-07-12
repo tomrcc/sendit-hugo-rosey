@@ -2,223 +2,216 @@ urlTranslation: about/index.html
 _inputs:
   $:
     type: object
-    comment: '[See about/](https://polite-viper.cloudvent.net/about/)'
+    comment: "[See about/](https://polite-viper.cloudvent.net/about/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
-          comment: >-
-            Text to translate on
+          comment: Text to translate on
             [about/](https://polite-viper.cloudvent.net/about/)
           inputs:
             - blog
-            - built-for-your
-            - cmo
-            - co-founder--ceo
-            - co-founder--cto
-            - cro
-            - follow-on-linkedin
-            - head-of-design
-            - head-of-marketing
-            - head-of-people
-            - head-of-sales
-            - >-
-              markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers
-            - >-
-              markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business
-            - >-
-              markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster
-            - marketing
-            - on-a-mission-to-change-email-marketing
-            - our-leadership-team
-            - try-this-free
-            - we-love-what-we-do
         - heading: Already translated (es)
-          comment: >-
-            Text already translated on
+          comment: Text already translated on
             [about/](https://polite-viper.cloudvent.net/about/)
           inputs:
             - about
             - active-users-and-growing
             - all-articles
             - amazing-team-members
+            - built-for-your
             - business
+            - cmo
+            - co-founder--ceo
+            - co-founder--cto
             - community
             - company
             - contact
+            - cro
             - established-in
             - feature
+            - follow-on-linkedin
+            - head-of-design
+            - head-of-marketing
+            - head-of-people
+            - head-of-sales
             - home
             - main-pages
+            - markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers
+            - markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business
+            - markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster
+            - marketing
+            - on-a-mission-to-change-email-marketing
+            - our-leadership-team
             - price
             - pricing
             - privacy-and-policy
             - technology
+            - try-this-free
             - venture-capital-raised
+            - we-love-what-we-do
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=About)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=About)"
   active-users-and-growing:
     label: Active users and growing
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Active%20users%20and%20growing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Active%20users%20\
+      and%20growing)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=All%20Articles)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=All%20Articles)"
   amazing-team-members:
     label: Amazing team members
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Amazing%20team%20members)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Amazing%20team%20\
+      members)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Blog)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Blog)"
   built-for-your:
     label: Built for your Business
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Built%20for%20your%20Business)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Built%20for%20you\
+      r%20Business)"
   business:
     label: Business
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Business)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Business)"
   cmo:
     label: CMO
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=CMO)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=CMO)"
   co-founder--ceo:
     label: Co-Founder  CEO
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Co-Founder%20%20CEO)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Co-Founder%20%20C\
+      EO)"
   co-founder--cto:
     label: Co-founder  CTO
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Co-founder%20%20CTO)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Co-founder%20%20C\
+      TO)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Community)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Company)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Contact)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Contact)"
   cro:
     label: CRO
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=CRO)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=CRO)"
   established-in:
     label: Established in
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Established%20in)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Established%20in)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Feature)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Feature)"
   follow-on-linkedin:
     label: Follow on Linkedin
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Follow%20on%20Linkedin)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Follow%20on%20Lin\
+      kedin)"
   head-of-design:
     label: Head of Design
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Design)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Desig\
+      n)"
   head-of-marketing:
     label: Head of Marketing
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Marketing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Marke\
+      ting)"
   head-of-people:
     label: Head of People
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20People)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Peopl\
+      e)"
   head-of-sales:
     label: Head of Sales
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Sales)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Sales\
+      )"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Home)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Main%20Pages)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Main%20Pages)"
   markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers:
     label: Our team has decades of experience working...
     hidden: false
@@ -240,15 +233,14 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Our%20team%20has,with%20your%20customers)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Our%20team%20has,\
+      with%20your%20customers)"
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: >-
-        Our team has decades of experience working with email marketing
+      content: Our team has decades of experience working with email marketing
         campaigns and we’re passionate about helping you connect with your
         customers.
   markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business:
@@ -272,15 +264,14 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=We%E2%80%99re%20here%20to,grow%20your%20business)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=We%E2%80%99re%20h\
+      ere%20to,grow%20your%20business)"
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: >-
-        We’re here to breathe new air into email marketing and help grow your
+      content: We’re here to breathe new air into email marketing and help grow your
         business.
   markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster:
     label: We’ve built Sendit from the ground up the ...
@@ -303,95 +294,93 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=We%E2%80%99ve%20built%20Sendit,your%20business%20faster)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=We%E2%80%99ve%20b\
+      uilt%20Sendit,your%20business%20faster)"
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: >-
-        We’ve built Sendit from the ground up the help grow your business
-        faster.
+      content: We’ve built Sendit from the ground up the help grow your business faster.
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Marketing)'
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Marketing)"
   on-a-mission-to-change-email-marketing:
     label: On a mission to change email marketing
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=On%20a%20mission,change%20email%20marketing)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=On%20a%20mission,\
+      change%20email%20marketing)"
   our-leadership-team:
     label: Our leadership team
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Our%20leadership%20team)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Our%20leadership%\
+      20team)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Price)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: '[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Pricing)'
+    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Privacy%20and%20Policy)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Privacy%20and%20P\
+      olicy)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Technology)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Technology)"
   try-this-free:
     label: Try This Free
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Try%20This%20Free)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Try%20This%20Free\
+      )"
   venture-capital-raised:
     label: Venture capital raised
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Venture%20capital%20raised)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=Venture%20capital\
+      %20raised)"
   we-love-what-we-do:
     label: We love what we do
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=We%20love%20what%20we%20do)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/about/#:~:text=We%20love%20what%\
+      20we%20do)"
 about: Acerca de
 active-users-and-growing: Usuarios activos y en crecimiento
 all-articles: Todos los artículos
 amazing-team-members: Miembros del equipo increíbles
-blog: ''
+blog: ""
 built-for-your: Creado para su negocio
 business: Negocio
 cmo: CMO
@@ -410,14 +399,14 @@ head-of-people: Jefe de Personas
 head-of-sales: Jefe de Ventas
 home: Hogar
 main-pages: Páginas principales
-markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers: >-
+markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers:
   Nuestro equipo tiene décadas de experiencia trabajando con campañas de
   marketing por correo electrónico y nos apasiona ayudarlo a conectarse con sus
   clientes.
-markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business: >-
+markdown:were-here-to-breathe-new-air-into-email-marketing-and-help-grow-your-business:
   Estamos aquí para darle nuevo aire al marketing por correo electrónico y
   ayudarlo a hacer crecer su negocio.
-markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster: >-
+markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster:
   Hemos creado Sendit desde cero para ayudarle a hacer crecer su negocio más
   rápido.
 marketing: Marketing
