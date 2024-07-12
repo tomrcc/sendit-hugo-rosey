@@ -1,4 +1,288 @@
 {
   "version": 2,
-  "keys": {}
+  "keys": {
+    "100-free-uploads": {
+      "original": "100% free uploads",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "active-users-and-growing": {
+      "original": "Active users and growing",
+      "value": null,
+      "pages": {
+        "about/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "amazing-team-members": {
+      "original": "Amazing team members",
+      "value": null,
+      "pages": {
+        "about/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "beautiful-email-campaigns": {
+      "original": "Beautiful email campaigns",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "build-relationships-that": {
+      "original": "Build relationships that <span data-rosey=\"last\"> last</span>",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "built-for-your": {
+      "original": "Built for your <span data-rosey=\"business\">Business</span>",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "business": {
+      "original": "Business",
+      "value": null,
+      "pages": {
+        "about/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "cmo-at-clear-appeal": {
+      "original": "CMO at Clear Appeal",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "digital-marketer-at-time-cop": {
+      "original": "Digital Marketer at Time Cop",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "email-campaign-in-one-minute": {
+      "original": "Email Campaign in one minute",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "established-in": {
+      "original": "Established in",
+      "value": null,
+      "pages": {
+        "about/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "free-templates-to-get-you-started": {
+      "original": "Free templates to get you started",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1
+      },
+      "total": 1
+    },
+    "head-of-marketing-at-pinnacle-mines": {
+      "original": "Head of Marketing at Pinnacle Mines",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before": {
+      "original": "I can't imagine life without Sendit now, I have no idea how we were surviving before.",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "last": {
+      "original": " last",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns": {
+      "original": "Customers from around the world are building game changing email marketing campaigns.",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "markdown:make-your-message-stand-out-thanks-to-the-guided-copywriting-and-design-features-triggering-a-positive-response-from-your-customers": {
+      "original": "Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1
+      },
+      "total": 1
+    },
+    "markdown:our-platform-offers-the-most-advanced-features-including-automated-email-content-creation-dynamic-personalization-and-customer-segmentation": {
+      "original": "Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "markdown:sales-analytics-and-automation-made-simple-see-every-sales-lead-in-one-place-regardless-of-where-it-came-from": {
+      "original": "Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "markdown:send-an-email-campaign-with-one-click-in-just-minutes-automate-your-emails-and-content-while-keeping-the-human-touch": {
+      "original": "Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "markdown:sendit-is-the-most-complete-solution-to-create-beautiful-email-designs-manage-mails-and-send-them-out-at-the-best-price": {
+      "original": "Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1
+      },
+      "total": 1
+    },
+    "markdown:sendit-is-used-by-everyone-from-small-businesses-to-fortune-500-companies-browse-our-collection-of-email-marketing-templates-and-start-sending-beautiful-emails-in-minutes": {
+      "original": "SendIt is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "markdown:we-have-an-extensive-library-of-pre-written-sales-emails-proven-marketing-templates-and-more-to-get-you-started-on-your-next-project": {
+      "original": "We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "markdown:weve-built-sendit-from-the-ground-up-the-help-grow-your-business-faster": {
+      "original": "We’ve built Sendit from the ground up the help grow your business faster.",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "markdown:with-sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-readers-attention-engage-them-and-convert-them-into-customers": {
+      "original": "With Sendit, you can quickly create beautiful rich emails that capture a reader’s attention, engage them, and convert them into customers.",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "scale-your": {
+      "original": "Scale your <span data-rosey=\"business\">Business</span>",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "see-every-lead-in-one-place": {
+      "original": "See every Lead in one Place",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "sendit": {
+      "original": "Sendit <span>Features</span>",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "sendit-has-taken-clear-appeal-to-the-next-level-with-its-beautiful-targetted-email-campaigns": {
+      "original": "Sendit has taken Clear Appeal to the next level with it's beautiful targetted email campaigns.",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "simply-click-and-send": {
+      "original": "Simply click and send",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1
+      },
+      "total": 1
+    },
+    "try-this-free": {
+      "original": " Try This Free ",
+      "value": null,
+      "pages": {
+        "feature/index.html": 3,
+        "index.html": 4
+      },
+      "total": 7
+    },
+    "venture-capital-raised": {
+      "original": "Venture capital raised",
+      "value": null,
+      "pages": {
+        "about/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    },
+    "wow-what-a-difference-sendit-has-made-my-customers-are-more-engaged-than-ever": {
+      "original": "Wow, what a difference Sendit has made. My customers are more engaged than ever.",
+      "value": null,
+      "pages": {
+        "feature/index.html": 1,
+        "index.html": 1
+      },
+      "total": 2
+    }
+  }
 }
