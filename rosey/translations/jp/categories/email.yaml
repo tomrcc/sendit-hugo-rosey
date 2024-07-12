@@ -10,8 +10,172 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
-          inputs: []
+          inputs:
+            - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
+            - about
+            - all-articles
+            - blog
+            - community
+            - company
+            - contact
+            - email
+            - email-delivery-tips
+            - feature
+            - home
+            - main-pages
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
+            - technology
         - heading: Already translated (jp)
           comment: Text already translated on
             [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
           inputs: []
+  /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
+    label: ""
+    hidden: true
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=)"
+  about:
+    label: About
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=About)"
+  all-articles:
+    label: All Articles
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=All%20\
+      Articles)"
+  blog:
+    label: Blog
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Blog)"
+  community:
+    label: Community
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Commun\
+      ity)"
+  company:
+    label: Company
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Compan\
+      y)"
+  contact:
+    label: Contact
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Contac\
+      t)"
+  email:
+    label: Email
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Email)"
+  email-delivery-tips:
+    label: Email delivery tips
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Email%\
+      20delivery%20tips)"
+  feature:
+    label: Feature
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Featur\
+      e)"
+  home:
+    label: Home
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Home)"
+  main-pages:
+    label: Main Pages
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Main%2\
+      0Pages)"
+  marketing:
+    label: Marketing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Market\
+      ing)"
+  price:
+    label: Price
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Price)"
+  pricing:
+    label: Pricing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Pricin\
+      g)"
+  privacy-and-policy:
+    label: Privacy and Policy
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Privac\
+      y%20and%20Policy)"
+  technology:
+    label: Technology
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Techno\
+      logy)"
+/TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU: ""
+about: について
+all-articles: すべての記事
+blog: ブログ
+community: コミュニティ
+company: 会社
+contact: 接触
+email: ""
+email-delivery-tips: ""
+feature: 特徴
+home: 家
+main-pages: メインページ
+marketing: マーケティング
+price: 価格
+pricing: 価格設定
+privacy-and-policy: プライバシーとポリシー
+technology: テクノロジー

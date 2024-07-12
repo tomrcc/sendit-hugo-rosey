@@ -13,18 +13,27 @@ _inputs:
           comment: Text already translated on [](https://polite-viper.cloudvent.net/)
           inputs:
             - 100-free-uploads
+            - about
             - active-users-and-growing
+            - all-articles
             - amazing-team-members
             - beautiful-email-campaigns
+            - blog
             - build-relationships-that
             - business
             - cmo-at-clear-appeal
+            - community
+            - company
+            - contact
             - digital-marketer-at-time-cop
             - email-campaign-in-one-minute
             - established-in
+            - feature
             - head-of-marketing-at-pinnacle-mines
+            - home
             - i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before
             - last
+            - main-pages
             - markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns
             - markdown:our-platform-offers-the-most-advanced-features-including-automated-email-content-creation-dynamic-personalization-and-customer-segmentation
             - markdown:sales-analytics-and-automation-made-simple-see-every-sales-lead-in-one-place-regardless-of-where-it-came-from
@@ -32,10 +41,15 @@ _inputs:
             - markdown:sendit-is-used-by-everyone-from-small-businesses-to-fortune-500-companies-browse-our-collection-of-email-marketing-templates-and-start-sending-beautiful-emails-in-minutes
             - markdown:we-have-an-extensive-library-of-pre-written-sales-emails-proven-marketing-templates-and-more-to-get-you-started-on-your-next-project
             - markdown:with-sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-readers-attention-engage-them-and-convert-them-into-customers
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
             - scale-your
             - see-every-lead-in-one-place
             - sendit
             - sendit-has-taken-clear-appeal-to-the-next-level-with-its-beautiful-targetted-email-campaigns
+            - technology
             - try-this-free
             - venture-capital-raised
             - wow-what-a-difference-sendit-has-made-my-customers-are-more-engaged-than-ever
@@ -46,6 +60,12 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://polite-viper.cloudvent.net/#:~:text=100%20free%20uploads)"
+  about:
+    label: About
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=About)"
   active-users-and-growing:
     label: Active users and growing
     hidden: false
@@ -54,6 +74,12 @@ _inputs:
     comment: "[See on
       page](https://polite-viper.cloudvent.net/#:~:text=Active%20users%20and%20\
       growing)"
+  all-articles:
+    label: All Articles
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=All%20Articles)"
   amazing-team-members:
     label: Amazing team members
     hidden: false
@@ -70,6 +96,12 @@ _inputs:
     comment: "[See on
       page](https://polite-viper.cloudvent.net/#:~:text=Beautiful%20email%20cam\
       paigns)"
+  blog:
+    label: Blog
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Blog)"
   build-relationships-that:
     label: Build relationships that  last
     hidden: false
@@ -92,6 +124,24 @@ _inputs:
     comment: "[See on
       page](https://polite-viper.cloudvent.net/#:~:text=CMO%20at%20Clear%20Appe\
       al)"
+  community:
+    label: Community
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Community)"
+  company:
+    label: Company
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Company)"
+  contact:
+    label: Contact
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Contact)"
   digital-marketer-at-time-cop:
     label: Digital Marketer at Time Cop
     hidden: false
@@ -115,6 +165,12 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://polite-viper.cloudvent.net/#:~:text=Established%20in)"
+  feature:
+    label: Feature
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Feature)"
   head-of-marketing-at-pinnacle-mines:
     label: Head of Marketing at Pinnacle Mines
     hidden: false
@@ -123,6 +179,12 @@ _inputs:
     comment: "[See on
       page](https://polite-viper.cloudvent.net/#:~:text=Head%20of%20Marketing%2\
       0at%20Pinnacle%20Mines)"
+  home:
+    label: Home
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Home)"
   i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before:
     label: I can't imagine life without Sendit now, I...
     hidden: false
@@ -143,6 +205,12 @@ _inputs:
     type: text
     options: {}
     comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=last)"
+  main-pages:
+    label: Main Pages
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Main%20Pages)"
   markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns:
     label: Customers from around the world are buildi...
     hidden: false
@@ -355,6 +423,31 @@ _inputs:
       icon: translate
       content: With Sendit, you can quickly create beautiful rich emails that capture
         a reader’s attention, engage them, and convert them into customers.
+  marketing:
+    label: Marketing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Marketing)"
+  price:
+    label: Price
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Price)"
+  pricing:
+    label: Pricing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Pricing)"
+  privacy-and-policy:
+    label: Privacy and Policy
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/#:~:text=Privacy%20and%20Policy)"
   scale-your:
     label: Scale your Business
     hidden: false
@@ -392,6 +485,12 @@ _inputs:
       icon: translate
       content: Sendit has taken Clear Appeal to the next level with it's beautiful
         targetted email campaigns.
+  technology:
+    label: Technology
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Technology)"
   try-this-free:
     label: Try This Free
     hidden: false
@@ -422,22 +521,31 @@ _inputs:
       content: Wow, what a difference Sendit has made. My customers are more engaged
         than ever.
 100-free-uploads: Subidas 100% gratis
+about: Acerca de
 active-users-and-growing: Usuarios activos y en crecimiento
+all-articles: Todos los artículos
 amazing-team-members: Miembros del equipo increíbles
 beautiful-email-campaigns: Hermosas campañas de correo electrónico
+blog: Blog
 build-relationships-that: Construya relaciones que duren
 business: Negocio
 cmo-at-clear-appeal: CMO en Clear Appeal
+community: Comunidad
+company: Compañía
+contact: Contacto
 digital-marketer-at-time-cop: Comercializador digital en Time Cop
 email-campaign-in-one-minute: |-
   Campaña de correo electrónico en un minuto
   policía del tiempo
 established-in: Establecido en
+feature: Característica
 head-of-marketing-at-pinnacle-mines: Jefe de Marketing en Pinnacle Mines
+home: Hogar
 i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before:
   No puedo imaginar la vida sin Sendit ahora, no tengo idea de cómo
   sobrevivíamos antes.
 last: último
+main-pages: Páginas principales
 markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns:
   Clientes de todo el mundo están creando campañas de marketing por correo
   electrónico innovadoras.
@@ -462,12 +570,17 @@ markdown:we-have-an-extensive-library-of-pre-written-sales-emails-proven-marketi
 markdown:with-sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-readers-attention-engage-them-and-convert-them-into-customers:
   Con Sendit, puede crear rápidamente hermosos correos electrónicos enriquecidos
   que capten la atención del lector, los atraigan y los conviertan en clientes.
+marketing: Marketing
+price: Precio
+pricing: Precios
+privacy-and-policy: Privacidad y política
 scale-your: Escala tu negocio
 see-every-lead-in-one-place: Vea todos los clientes potenciales en un solo lugar
 sendit: Funciones de envío
 sendit-has-taken-clear-appeal-to-the-next-level-with-its-beautiful-targetted-email-campaigns:
   Sendit ha llevado Clear Appeal al siguiente nivel con sus hermosas campañas de
   correo electrónico dirigidas.
+technology: Tecnología
 try-this-free: Pruebe esto gratis
 venture-capital-raised: Capital riesgo recaudado
 wow-what-a-difference-sendit-has-made-my-customers-are-more-engaged-than-ever:

@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="privacy-hero-content text-center">
-          <h1>{{.Params.hero.title}}</h1>
+          <h1 data-rosey="{{ .Params.hero.title | anchorize }}">{{.Params.hero.title}}</h1>
         </div>
       </div>
     </div>
@@ -27,10 +27,10 @@
             $privacyContent }} {{ if eq .key "descriptive" }}
             <div class="privacy-items" id="item{{add $index 1}}">
               <div class="card">
-                <h3 class="sub-title">{{.heading}}</h3>
+                <h3 class="sub-title" data-rosey="{{ .heading | anchorize }}">{{.heading}}</h3>
                 {{ range .texts }}
                 <div class="card-body">
-                  <p class="card-text">{{.value}}</p>
+                  <p class="card-text" data-rosey="{{ .value | anchorize }}">{{.value}}</p>
                 </div>
                 {{ end }}
               </div>
@@ -38,11 +38,11 @@
             {{ else if eq .key "bulletpoints"}}
             <div class="privacy-items" id="item{{add $index 1}}">
               <div class="card">
-                <h3 class="sub-title">{{.heading}}</h3>
+                <h3 class="sub-title" data-rosey="{{ .heading | anchorize }}">{{.heading}}</h3>
                 <div class="card-body">
                   <ul>
                     {{ range .texts }}
-                    <li>{{.value}}</li>
+                    <li data-rosey="{{ .value | anchorize }}">{{.value}}</li>
                     {{ end }}
                   </ul>
                 </div>
@@ -57,15 +57,16 @@
               {{ $privacyContent := .privacy }} {{ range $index,$data :=
               $privacyContent}} {{ if eq $index 0 }}
               <li class="nav-item">
-                <a class="nav-link active" href="#item{{add $index 1}}"
-                  >{{.heading}}</a
-                >
+                <a 
+                  class="nav-link active" href="#item{{add $index 1}}"
+                  data-rosey="{{ .heading | anchorize }}">{{.heading}}
+                </a>
               </li>
               {{else}}
               <li class="nav-item">
-                <a class="nav-link" href="#item{{add $index 1}}">
-                  {{.heading}}</a
-                >
+                <a class="nav-link" href="#item{{add $index 1}}" data-rosey="{{ .heading | anchorize }}">
+                  {{.heading}}
+                </a>
               </li>
               {{ end }} {{ end }}
             </ul>

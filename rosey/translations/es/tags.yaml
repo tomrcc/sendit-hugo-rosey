@@ -8,8 +8,141 @@ _inputs:
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on [tags/](https://polite-viper.cloudvent.net/tags/)
-          inputs: []
+          inputs:
+            - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
+            - about
+            - all-articles
+            - blog
+            - community
+            - company
+            - contact
+            - feature
+            - home
+            - main-pages
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
+            - tags
+            - technology
         - heading: Already translated (es)
           comment: Text already translated on
             [tags/](https://polite-viper.cloudvent.net/tags/)
           inputs: []
+  /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
+    label: ""
+    hidden: true
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=)"
+  about:
+    label: About
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=About)"
+  all-articles:
+    label: All Articles
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/tags/#:~:text=All%20Articles)"
+  blog:
+    label: Blog
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Blog)"
+  community:
+    label: Community
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Community)"
+  company:
+    label: Company
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Company)"
+  contact:
+    label: Contact
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Contact)"
+  feature:
+    label: Feature
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Feature)"
+  home:
+    label: Home
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Home)"
+  main-pages:
+    label: Main Pages
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/tags/#:~:text=Main%20Pages)"
+  marketing:
+    label: Marketing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Marketing)"
+  price:
+    label: Price
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Price)"
+  pricing:
+    label: Pricing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Pricing)"
+  privacy-and-policy:
+    label: Privacy and Policy
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/tags/#:~:text=Privacy%20and%20Po\
+      licy)"
+  tags:
+    label: Tags
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Tags)"
+  technology:
+    label: Technology
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/tags/#:~:text=Technology)"
+/TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU: ""
+about: Acerca de
+all-articles: Todos los artículos
+blog: ""
+community: Comunidad
+company: Compañía
+contact: Contacto
+feature: Característica
+home: Hogar
+main-pages: Páginas principales
+marketing: ""
+price: Precio
+pricing: Precios
+privacy-and-policy: Privacidad y política
+tags: ""
+technology: Tecnología

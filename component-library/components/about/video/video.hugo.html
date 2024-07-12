@@ -3,10 +3,10 @@
     <div class="row align-items-center">
       <div class="col-lg-6">
         <div class="works-content">
-          <h2>{{.title}}</h2>
-          <p>{{.description | markdownify}}</p>
+          <h2 data-rosey="{{ .title | anchorize }}">{{.title}}</h2>
+          <p data-rosey-ns="markdown" data-rosey="{{ .description | anchorize }}">{{.description | markdownify}}</p>
           {{ with .btn }}
-          <a href="{{.link}}" class="btn btn-lg btn-white"> {{.text}} </a>
+          <a href="{{.link}}" class="btn btn-lg btn-white" data-rosey="{{ .text | anchorize }}"> {{.text}} </a>
           {{ end }}
         </div>
       </div>

@@ -89,16 +89,16 @@
                         {{ $url := .link }}
                         <li class="nav-item dropdown">
                             {{ if and .enable_dropdown .dropdown }}
-                                <a class="nav-link dropdown-link {{ if eq $current.Permalink $url }}active{{ end }}" href="{{ .link }}" id="navbarDropdown" role="button" aria-expanded="false">{{ .text }}</a>
+                                <a class="nav-link dropdown-link {{ if eq $current.Permalink $url }}active{{ end }}" href="{{ .link }}" id="navbarDropdown" role="button" aria-expanded="false" data-rosey="{{ .text | anchorize }}">{{ .text }}</a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     {{ range .dropdown }}
                                         <li>
-                                            <a class="dropdown-item" href="{{ .dropdown_link }}">{{ .dropdown_text }}</a>
+                                            <a class="dropdown-item" href="{{ .dropdown_link }}" data-rosey="{{ .dropdown_text | anchorize }}">{{ .dropdown_text }}</a>
                                         </li>
                                     {{ end }}
                                 </ul>
                             {{ else }}
-                                <a class="nav-link {{ if eq $current.Permalink $url }}active{{ end }}" href="{{ .link }}">{{ .text }}</a>
+                                <a class="nav-link {{ if eq $current.Permalink $url }}active{{ end }}" href="{{ .link }}" data-rosey="{{ .text | anchorize }}">{{ .text }}</a>
                             {{ end }}
                         </li>
                     {{ end }}
@@ -108,7 +108,7 @@
                 <div class="d-none d-lg-block">
                     <div class="nav-item">
                     {{ with .nav_btn }}
-                    <a href="{{.link}}" class="btn btn-sm btn-links">{{.text}}</a>
+                    <a href="{{.link}}" class="btn btn-sm btn-links" data-rosey="{{ .text | anchorize }}">{{.text}}</a>
                     {{ end }}
                     </div>
                 </div> 
