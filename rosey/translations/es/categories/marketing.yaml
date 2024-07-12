@@ -15,26 +15,26 @@ _inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
+            - blog
+            - how-to-host-better-email-marketing-campaigns
+            - marketing
+            - what-are-the-best-email-clients
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [categories/marketing/](https://polite-viper.cloudvent.net/categories/marketing/)
+          inputs:
             - about
             - all-articles
-            - blog
             - community
             - company
             - contact
             - feature
             - home
-            - how-to-host-better-email-marketing-campaigns
             - main-pages
-            - marketing
             - price
             - pricing
             - privacy-and-policy
             - technology
-            - what-are-the-best-email-clients
-        - heading: Already translated (es)
-          comment: Text already translated on
-            [categories/marketing/](https://polite-viper.cloudvent.net/categories/marketing/)
-          inputs: []
   /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
     label: ""
     hidden: true

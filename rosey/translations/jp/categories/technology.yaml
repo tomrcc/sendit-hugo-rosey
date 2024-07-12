@@ -13,9 +13,13 @@ _inputs:
             [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
+            - best-email-sending-services
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
+          inputs:
             - about
             - all-articles
-            - best-email-sending-services
             - blog
             - community
             - company
@@ -28,10 +32,6 @@ _inputs:
             - pricing
             - privacy-and-policy
             - technology
-        - heading: Already translated (jp)
-          comment: Text already translated on
-            [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
-          inputs: []
   /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
     label: ""
     hidden: true

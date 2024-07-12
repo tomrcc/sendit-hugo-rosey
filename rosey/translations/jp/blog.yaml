@@ -11,31 +11,31 @@ _inputs:
           inputs:
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
-            - about
-            - all-articles
             - best-email-sending-services
-            - blog
-            - community
-            - company
-            - contact
             - email
             - email-delivery-tips
-            - feature
-            - home
             - how-to-host-better-email-marketing-campaigns
-            - main-pages
-            - marketing
-            - price
-            - pricing
-            - privacy-and-policy
             - resources-to-grow-your-email-campaigns
-            - technology
             - we-believe-that-a-good-email-marketing-strategy-is-the-key-to-growth-so-were-helping-you-grow-your-business-with-tools-and-resources-that-make-email-marketing-easy
             - what-are-the-best-email-clients
         - heading: Already translated (jp)
           comment: Text already translated on
             [blog/](https://polite-viper.cloudvent.net/blog/)
-          inputs: []
+          inputs:
+            - about
+            - all-articles
+            - blog
+            - community
+            - company
+            - contact
+            - feature
+            - home
+            - main-pages
+            - marketing
+            - price
+            - pricing
+            - privacy-and-policy
+            - technology
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
     hidden: false

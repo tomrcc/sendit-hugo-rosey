@@ -10,6 +10,11 @@ _inputs:
           comment: Text to translate on [tags/](https://polite-viper.cloudvent.net/tags/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
+            - tags
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [tags/](https://polite-viper.cloudvent.net/tags/)
+          inputs:
             - about
             - all-articles
             - blog
@@ -23,12 +28,7 @@ _inputs:
             - price
             - pricing
             - privacy-and-policy
-            - tags
             - technology
-        - heading: Already translated (jp)
-          comment: Text already translated on
-            [tags/](https://polite-viper.cloudvent.net/tags/)
-          inputs: []
   /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
     label: ""
     hidden: true

@@ -10,36 +10,36 @@ _inputs:
           comment: Text to translate on
             [contact/](https://polite-viper.cloudvent.net/contact/)
           inputs:
+            - email
+            - email-address
+            - form-message-placeholder
+            - full-name
+            - lets-talk
+            - markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message
+            - office-address
+            - phone
+            - phone-number
+            - say-hello
+            - send-message
+            - your-message
+        - heading: Already translated (jp)
+          comment: Text already translated on
+            [contact/](https://polite-viper.cloudvent.net/contact/)
+          inputs:
             - about
             - all-articles
             - blog
             - community
             - company
             - contact
-            - email
-            - email-address
             - feature
-            - form-message-placeholder
-            - full-name
             - home
-            - lets-talk
             - main-pages
-            - markdown:have-a-question-or-suggestion-feel-free-to-drop-us-a-message
             - marketing
-            - office-address
-            - phone
-            - phone-number
             - price
             - pricing
             - privacy-and-policy
-            - say-hello
-            - send-message
             - technology
-            - your-message
-        - heading: Already translated (jp)
-          comment: Text already translated on
-            [contact/](https://polite-viper.cloudvent.net/contact/)
-          inputs: []
   about:
     label: About
     hidden: false

@@ -14,30 +14,30 @@ _inputs:
           inputs:
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
-            - about
-            - all-articles
             - best-email-sending-services
             - blog
+            - how-to-host-better-email-marketing-campaigns
+            - marketing
+            - minutes
+            - recent-blog
+            - static:/blog/how-to-host-better-email-marketing-campaigns/
+            - words
+        - heading: Already translated (es)
+          comment: Text already translated on
+            [blog/how-to-host-better-email-marketing-campaigns/](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
+          inputs:
+            - about
+            - all-articles
             - community
             - company
             - contact
             - feature
             - home
-            - how-to-host-better-email-marketing-campaigns
             - main-pages
-            - marketing
-            - minutes
             - price
             - pricing
             - privacy-and-policy
-            - recent-blog
-            - static:/blog/how-to-host-better-email-marketing-campaigns/
             - technology
-            - words
-        - heading: Already translated (es)
-          comment: Text already translated on
-            [blog/how-to-host-better-email-marketing-campaigns/](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
-          inputs: []
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
     hidden: false
