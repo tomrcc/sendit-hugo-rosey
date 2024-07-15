@@ -12,7 +12,6 @@ _inputs:
             [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
-            - email-delivery-tips
         - heading: Already translated (jp)
           comment: Text already translated on
             [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
@@ -24,6 +23,7 @@ _inputs:
             - company
             - contact
             - email
+            - email-delivery-tips
             - feature
             - home
             - main-pages

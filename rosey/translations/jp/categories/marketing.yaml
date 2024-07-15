@@ -13,7 +13,6 @@ _inputs:
             [categories/marketing/](https://polite-viper.cloudvent.net/categories/marketing/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
-            - what-are-the-best-email-clients
         - heading: Already translated (jp)
           comment: Text already translated on
             [categories/marketing/](https://polite-viper.cloudvent.net/categories/marketing/)
@@ -35,6 +34,7 @@ _inputs:
             - pricing
             - privacy-and-policy
             - technology
+            - what-are-the-best-email-clients
   /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU:
     label: ""
     hidden: true

@@ -23,25 +23,25 @@
 		"original": "feature/index.html",
 		"value": "feature/index.html"
 	},
-	"pricing/index.html": {
-		"original": "pricing/index.html",
-		"value": "pricing/index.html"
-	},
 	"index.html": {
 		"original": "index.html",
 		"value": "index.html"
+	},
+	"pricing/index.html": {
+		"original": "pricing/index.html",
+		"value": "pricing/index.html"
 	},
 	"privacy/index.html": {
 		"original": "privacy/index.html",
 		"value": "privacy/index.html"
 	},
-	"tags/page/1/index.html": {
-		"original": "tags/page/1/index.html",
-		"value": "tags/page/1/index.html"
-	},
 	"tags/index.html": {
 		"original": "tags/index.html",
 		"value": "tags/index.html"
+	},
+	"tags/page/1/index.html": {
+		"original": "tags/page/1/index.html",
+		"value": "tags/page/1/index.html"
 	},
 	"categories/email/index.html": {
 		"original": "categories/email/index.html",
@@ -91,12 +91,12 @@
 		"original": "blog/how-to-host-better-email-marketing-campaigns/index.html",
 		"value": "blog/how-to-host-better-email-marketing-campaigns/index.html"
 	},
-	"blog/what-are-the-best-email-clients/index.html": {
-		"original": "blog/what-are-the-best-email-clients/index.html",
-		"value": "blog/what-are-the-best-email-clients/index.html"
-	},
 	"blog/page/1/index.html": {
 		"original": "blog/page/1/index.html",
 		"value": "blog/page/1/index.html"
+	},
+	"blog/what-are-the-best-email-clients/index.html": {
+		"original": "blog/what-are-the-best-email-clients/index.html",
+		"value": "blog/what-are-the-best-email-clients/index.html"
 	}
 }
