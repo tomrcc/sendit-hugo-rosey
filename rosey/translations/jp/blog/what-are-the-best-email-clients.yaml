@@ -11,8 +11,7 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [blog/what-are-the-best-email-clients/](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/)
-          inputs:
-            - what-are-the-best-email-clients
+          inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
             [blog/what-are-the-best-email-clients/](https://polite-viper.cloudvent.net/blog/what-are-the-best-email-clients/)
@@ -37,6 +36,7 @@ _inputs:
             - recent-blog
             - static:/blog/what-are-the-best-email-clients/
             - technology
+            - what-are-the-best-email-clients
             - words
   5-things-to-improve-your-email-templates:
     label: 5 things to improve your email templates
