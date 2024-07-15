@@ -202,9 +202,16 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/5-things-to-improve-your-em\
-      ail-templates/#:~:text=When%20you%20send,a%20timely%20manner)"
+    comment: >-
+      Added: This is new
+
+
+      Removed: To make sure your emails reach their recipients successfully,
+      follow these email delivery tips.
+
+
+      [See on
+      page](https://polite-viper.cloudvent.net/blog/5-things-to-improve-your-email-templates/#:~:text=When%20you%20send,a%20timely%20manner)
     context:
       open: false
       title: Untranslated Text
@@ -212,8 +219,7 @@ _inputs:
       content: >-
         When you send an email campaign, you expect it to reach your readers,
         right? But what if the emails go straight to your subscribers’ spam
-        folders instead of their inboxes? To make sure your emails reach their
-        recipients successfully, follow these email delivery tips.
+        folders instead of their inboxes? This is new
 
 
         ### Use an ESP

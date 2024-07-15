@@ -27,13 +27,13 @@
 		"original": "index.html",
 		"value": "index.html"
 	},
-	"privacy/index.html": {
-		"original": "privacy/index.html",
-		"value": "privacy/index.html"
-	},
 	"pricing/index.html": {
 		"original": "pricing/index.html",
 		"value": "pricing/index.html"
+	},
+	"privacy/index.html": {
+		"original": "privacy/index.html",
+		"value": "privacy/index.html"
 	},
 	"tags/index.html": {
 		"original": "tags/index.html",
@@ -83,13 +83,13 @@
 		"original": "blog/best-email-sending-services/index.html",
 		"value": "blog/best-email-sending-services/index.html"
 	},
-	"blog/how-to-host-better-email-marketing-campaigns/index.html": {
-		"original": "blog/how-to-host-better-email-marketing-campaigns/index.html",
-		"value": "blog/how-to-host-better-email-marketing-campaigns/index.html"
-	},
 	"blog/email-delivery-tips/index.html": {
 		"original": "blog/email-delivery-tips/index.html",
 		"value": "blog/email-delivery-tips/index.html"
+	},
+	"blog/how-to-host-better-email-marketing-campaigns/index.html": {
+		"original": "blog/how-to-host-better-email-marketing-campaigns/index.html",
+		"value": "blog/how-to-host-better-email-marketing-campaigns/index.html"
 	},
 	"blog/what-are-the-best-email-clients/index.html": {
 		"original": "blog/what-are-the-best-email-clients/index.html",
