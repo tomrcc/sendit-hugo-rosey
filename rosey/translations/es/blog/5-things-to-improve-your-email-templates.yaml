@@ -202,16 +202,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      Added: This is new
-
-
-      Removed: To make sure your emails reach their recipients successfully,
-      follow these email delivery tips.
-
-
-      [See on
-      page](https://polite-viper.cloudvent.net/blog/5-things-to-improve-your-email-templates/#:~:text=When%20you%20send,a%20timely%20manner)
+    comment: "[See on
+      page](https://polite-viper.cloudvent.net/blog/5-things-to-improve-your-em\
+      ail-templates/#:~:text=When%20you%20send,a%20timely%20manner)"
     context:
       open: false
       title: Untranslated Text
