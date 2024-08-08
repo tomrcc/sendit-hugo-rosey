@@ -411,6 +411,10 @@
 		"original": "\n                    <i class=\"ph-check deactive\"></i>\n                    Unlimited activity history\n                  ",
 		"value": "無制限のアクティビティ履歴"
 	},
+	"tags": {
+		"original": "Tags",
+		"value": "Tags"
+	},
 	"a-slider-is-great-way-to-display-a-slideshow": {
 		"original": "A slider is great way to display a slideshow",
 		"value": "スライダーはスライドショーを表示するのに最適な方法です"
@@ -434,10 +438,6 @@
 	"the-wordpress-sites-being-easy-to-use-offers-many-plugins-for-slider-you-could-imagine-slideshows-in-your-head-and-make-them-true-on-the-screen": {
 		"original": "The WordPress sites being easy to use, offers many plugins for slider. You could imagine slideshows in your head and make them true on the screen.",
 		"value": "WordPress サイトは使いやすく、スライダー用のプラグインが多数提供されています。頭の中でスライドショーを想像し、それを画面上で実現することができます。"
-	},
-	"tags": {
-		"original": "Tags",
-		"value": "Tags"
 	},
 	"minutes": {
 		"original": "minutes",
