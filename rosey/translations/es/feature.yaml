@@ -386,13 +386,13 @@ _inputs:
       page](https://polite-viper.cloudvent.net/feature/#:~:text=Run%20the%20bes\
       t%20campaigns)"
   see-every-lead-in-one-place:
-    label: See every Lead in one Place
+    label: See every lead in one place
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/feature/#:~:text=See%20every%20L\
-      ead%20in%20one%20Place)"
+      page](https://polite-viper.cloudvent.net/feature/#:~:text=See%20every%20l\
+      ead%20in%20one%20place)"
   sendit:
     label: Sendit Features
     hidden: false

@@ -91,12 +91,12 @@
 		"original": "blog/how-to-host-better-email-marketing-campaigns/index.html",
 		"value": "blog/how-to-host-better-email-marketing-campaigns/index.html"
 	},
-	"blog/page/1/index.html": {
-		"original": "blog/page/1/index.html",
-		"value": "blog/page/1/index.html"
-	},
 	"blog/what-are-the-best-email-clients/index.html": {
 		"original": "blog/what-are-the-best-email-clients/index.html",
 		"value": "blog/what-are-the-best-email-clients/index.html"
+	},
+	"blog/page/1/index.html": {
+		"original": "blog/page/1/index.html",
+		"value": "blog/page/1/index.html"
 	}
 }
