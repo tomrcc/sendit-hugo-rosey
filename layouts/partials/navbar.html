@@ -9,6 +9,16 @@
             <a class="navbar-brand" href="/">
                 <img src="{{ .logo }}" alt="Nav-Logo" />
             </a>
+            <ul style="list-style: none;">
+                {{ range .languages }}
+                    <li style="">
+                        <a href="/{{ .code }}/{{ $.Page.RelPermalink }}/">
+                            {{ .name }}
+                            <span><img style="width: 32px;" src="{{ .flag }}" alt="{{ .name }} Flag"></span>
+                        </a>
+                    </li>
+                {{ end }}
+            </ul>
             <button
             class="navbar-toggler"
             type="button"
@@ -103,6 +113,7 @@
                         </li>
                     {{ end }}
                 </ul>
+                
             </div> 
             {{ if .enable_nav_btn }}
                 <div class="d-none d-lg-block">
