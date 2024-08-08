@@ -457,13 +457,13 @@ _inputs:
       page](https://polite-viper.cloudvent.net/#:~:text=Scale%20your%20Business\
       )"
   see-every-lead-in-one-place:
-    label: See every Lead in one Place
+    label: See every lead in one place
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=See%20every%20Lead%20in\
-      %20one%20Place)"
+      page](https://polite-viper.cloudvent.net/#:~:text=See%20every%20lead%20in\
+      %20one%20place)"
   sendit:
     label: Sendit Features
     hidden: false
