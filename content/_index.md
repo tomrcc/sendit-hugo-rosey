@@ -1,16 +1,4 @@
 ---
-_input:
-  description:
-    options:
-      blockquote: true
-      bold: true
-      format: p h1 h2 h3 h4 h5 h6 pre address div
-      italic: true
-      link: true
-      strike: true
-      subscript: true
-      superscript: true
-      underline: true
 _schema: default
 title: Home
 seo:
@@ -23,7 +11,7 @@ seo:
 content_blocks:
    -
       _bookshop_name: home/hero
-      title: Beautiful email campaigns
+      title: Beautiful email campaigns changed
       description: >-
          With Sendit, you can quickly create beautiful rich emails that capture
          a reader's attention, engage them, and convert them into customers.

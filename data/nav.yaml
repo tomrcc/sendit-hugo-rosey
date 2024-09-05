@@ -30,6 +30,16 @@ items:
     text: Contact
     enable_dropdown: false
     dropdown:
+languages:
+  - code: es
+    name: Espanol
+    flag: /images/flags/spain-flag-png-large.png
+  - code: en
+    name: English (US)
+    flag: /images/flags/usa-flag.jpeg
+  - code: jp
+    name: 日本語
+    flag: /images/flags/flag-of-japan.png
 enable_nav_btn: false
 nav_btn:
   link: /contact/
