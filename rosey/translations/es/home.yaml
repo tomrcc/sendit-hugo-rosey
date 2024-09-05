@@ -8,7 +8,8 @@ _inputs:
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on [](https://polite-viper.cloudvent.net/)
-          inputs: []
+          inputs:
+            - beautiful-email-campaigns-changed
         - heading: Already translated (es)
           comment: Text already translated on [](https://polite-viper.cloudvent.net/)
           inputs:
@@ -17,7 +18,6 @@ _inputs:
             - active-users-and-growing
             - all-articles
             - amazing-team-members
-            - beautiful-email-campaigns
             - blog
             - build-relationships-that
             - business
@@ -88,14 +88,14 @@ _inputs:
     comment: "[See on
       page](https://polite-viper.cloudvent.net/#:~:text=Amazing%20team%20member\
       s)"
-  beautiful-email-campaigns:
-    label: Beautiful email campaigns
+  beautiful-email-campaigns-changed:
+    label: Beautiful email campaigns changed
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
       page](https://polite-viper.cloudvent.net/#:~:text=Beautiful%20email%20cam\
-      paigns)"
+      paigns%20changed)"
   blog:
     label: Blog
     hidden: false
@@ -525,7 +525,7 @@ about: Acerca de
 active-users-and-growing: Usuarios activos y en crecimiento
 all-articles: Todos los artículos
 amazing-team-members: Miembros del equipo increíbles
-beautiful-email-campaigns: This has changed
+beautiful-email-campaigns-changed: ""
 blog: Blog
 build-relationships-that: Construya relaciones que duren
 business: Negocio
